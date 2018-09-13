@@ -1,0 +1,1351 @@
+::: {.fullPage}
+::: {.twikiMiddleContainer}
+::: {.twikiLeftBar}
+::: {.twikiLeftBarContents}
+**[TWiki](http://TWiki.org/)**
+
+-   **[Welcome](WelcomeGuest){.twikiLink}**
+-   **[Register](TWikiRegistration){.twikiLink}**
+
+------------------------------------------------------------------------
+
+-   **TWiki Web**
+-   [TWiki Web Home](WebHome){.twikiLink}
+-   [Changes](WebChanges){.twikiLink}
+-   [Topics](WebTopicList){.twikiLink}
+-   [Index](WebIndex){.twikiLink}
+-   [Search](WebSearch){.twikiLink}
+
+------------------------------------------------------------------------
+
+-   **TWiki Webs**
+    -   [BX12](../BX12/WebHome){.twikiLink}
+    -   [Book](../Book/WebHome){.twikiLink}
+    -   [CC[^?^](http://www.program-transformation.org/edit/CC/WebHome?topicparent=TWiki.TWikiVariables)]{.twikiNewLink
+        style="background : #FFFFCE;"}
+    -   [Compare](../Compare/WebHome){.twikiLink}
+    -   [GPCE06](../GPCE06/WebHome){.twikiLink}
+    -   [GPCE08](../GPCE08/WebHome){.twikiLink}
+    -   [GPCE09](../GPCE09/WebHome){.twikiLink}
+    -   [GPCE10](../GPCE10/WebHome){.twikiLink}
+    -   [GPCE11](../GPCE11/WebHome){.twikiLink}
+    -   [GPCE12](../GPCE12/WebHome){.twikiLink}
+    -   [GPCE13](../GPCE13/WebHome){.twikiLink}
+    -   [GPCE14](../GPCE14/WebHome){.twikiLink}
+    -   [Gmt](../Gmt/WebHome){.twikiLink}
+    -   [Gpce](../Gpce/WebHome){.twikiLink}
+    -   [Gpce03](http://www.program-transformation.org/Gpce03/WebHome){.twikiLink}
+    -   [Gpce04](../Gpce04/WebHome){.twikiLink}
+    -   [Gpce05](../Gpce05/WebHome){.twikiLink}
+    -   [Gpceorg](../Gpceorg/WebHome){.twikiLink}
+    -   [HART14](../HART14/WebHome){.twikiLink}
+    -   [IFIPWG211](http://www.program-transformation.org/IFIPWG211/WebHome){.twikiLink}
+    -   [IPA06](../IPA06/WebHome){.twikiLink}
+    -   [Main](../Main/WebHome){.twikiLink}
+    -   [Octave](../Octave/WebHome){.twikiLink}
+    -   [PEPM07](../PEPM07/WebHome){.twikiLink}
+    -   [PEPM08](../PEPM08/WebHome){.twikiLink}
+    -   [PEPM10](../PEPM10/WebHome){.twikiLink}
+    -   [PEPM11](../PEPM11/WebHome){.twikiLink}
+    -   [PEPM12](../PEPM12/WebHome){.twikiLink}
+    -   [PEPM13](../PEPM13/WebHome){.twikiLink}
+    -   [PEPM14](../PEPM14/WebHome){.twikiLink}
+    -   [PHP](../PHP/WebHome){.twikiLink}
+    -   [Sandbox](../Sandbox/WebHome){.twikiLink}
+    -   [Sdf](../Sdf/WebHome){.twikiLink}
+    -   [SdfBackup](../SdfBackup/WebHome){.twikiLink}
+    -   [Spoofax](../Spoofax/WebHome){.twikiLink}
+    -   [Stratego](../Stratego/WebHome){.twikiLink}
+    -   [Sts](../Sts/WebHome){.twikiLink}
+    -   [TWiki](WebHome){.twikiLink}
+    -   [Tiger](../Tiger/WebHome){.twikiLink}
+    -   [Tools](../Tools/WebHome){.twikiLink}
+    -   [Transform](../Transform/WebHome){.twikiLink}
+    -   [Variability](../Variability/WebHome){.twikiLink}
+    -   [WGLD](../WGLD/WebHome){.twikiLink}
+    -   [WebDSL](../WebDSL/WebHome){.twikiLink}
+    -   [default](DefaultWebHome){.twikiLink}
+
+::: {.twikiLeftBarPersonal}
+::: {style="overflow:auto; height:1px; width:1px;"}
+Changes Index Search
+
+------------------------------------------------------------------------
+
+Webs Book Compare GPCE06 Gmt Gpce Gpce04 Gpce05 IFIPWG211 IPA06 Main
+Octave PEPM07 PEPM08 PHP Sandbox Sdf Stratego Sts TWiki Tiger Tools
+Transform Variability default
+[porn](http://www.estrategiavirtual.com/adult/) [free
+porn](http://www.estrategiavirtual.com/free/)
+:::
+:::
+:::
+:::
+
+::: {.twikiMain}
+::: {.toolBar}
+::: {.flexMenuBar}
+::: {.flexMenu onmouseover="return showMenu(event, 100);" onmouseout="return hideMenu(event, 100);"}
+Page
+
+::: {#flexMenuContent100 .flexMenuContent}
+-   [Edit
+    Page](http://www.program-transformation.org/edit/TWiki/TWikiVariables?t=1536825862)
+-   [Rename
+    Page](http://www.program-transformation.org/rename/TWiki/TWikiVariables)
+-   [Attach
+    File](http://www.program-transformation.org/attach/TWiki/TWikiVariables)
+
+<!-- -->
+
+-   [Printable](http://www.program-transformation.org/view/TWiki/TWikiVariables?skin=print.pattern)
+-   [Wiki
+    Source](http://www.program-transformation.org/view/TWiki/TWikiVariables?skin=text&raw=on&contenttype=text/plain)
+
+<!-- -->
+
+-   [Rev
+    78](http://www.program-transformation.org/view/TWiki/TWikiVariables?rev=1.78)
+    [(diff 77)](http://www.program-transformation.org/rdiff/TWiki/TWikiVariables?rev1=1.78&rev2=1.77)
+-   [Rev
+    77](http://www.program-transformation.org/view/TWiki/TWikiVariables?rev=1.77)
+    [(diff 76)](http://www.program-transformation.org/rdiff/TWiki/TWikiVariables?rev1=1.77&rev2=1.76)
+-   [Rev
+    76](http://www.program-transformation.org/view/TWiki/TWikiVariables?rev=1.76)
+    [(diff 75)](http://www.program-transformation.org/rdiff/TWiki/TWikiVariables?rev1=1.76&rev2=1.75)
+-   [Total
+    History](http://www.program-transformation.org/rdiff/TWiki/TWikiVariables)
+
+<!-- -->
+
+-   [More
+    \...](http://www.program-transformation.org/oops/TWiki/TWikiVariables?template=oopsmore&param1=1.78&param2=1.78)
+:::
+:::
+
+::: {.flexMenu onmouseover="return showMenu(event, 102);" onmouseout="return hideMenu(event, 102);"}
+Web
+
+::: {#flexMenuContent102 .flexMenuContent}
+-   [Recent Changes](WebChanges){.twikiLink}
+-   [Notify Service](WebNotify){.twikiLink}
+-   [News](WebNews){.twikiLink}
+
+<!-- -->
+
+-   [Page Index](WebIndex){.twikiLink}
+-   [Search](WebSearch){.twikiLink}
+
+<!-- -->
+
+-   [More
+    \...](http://www.program-transformation.org/oops/TWiki/TWikiVariables?template=oopsmore&param1=1.78&param2=1.78)
+:::
+:::
+
+::: {.flexMenu onmouseover="return showMenu(event, 103);" onmouseout="return hideMenu(event, 103);"}
+Wiki
+
+::: {#flexMenuContent103 .flexMenuContent}
+-   [About
+    TWiki](http://www.program-transformation.org/view/TWiki/WebHome)
+-   [Text
+    Formatting](http://www.program-transformation.org/view/TWiki/TextFormattingRules)
+
+<!-- -->
+
+-   [Registration](http://www.program-transformation.org/view/TWiki/TWikiRegistration)
+-   [Change
+    Password](http://www.program-transformation.org/view/TWiki/ChangePassword)
+-   [Reset
+    Password](http://www.program-transformation.org/view/TWiki/ResetPassword)
+
+<!-- -->
+
+-   [Users](http://www.program-transformation.org/view/Main/TWikiUsers)
+-   [Groups](http://www.program-transformation.org/view/Main/TWikiGroups)
+:::
+:::
+:::
+:::
+
+::: {.twikiTopic}
+TWiki Variables {#twiki-variables .twikiTopicTitle}
+===============
+
+::: {.twikiWebTitle}
+TWiki
+:::
+
+::: {.twikiToc}
+-   [TWiki Variables](TWikiVariables#TWiki_Variables)
+    -   [Predefined Variables](TWikiVariables#Predefined_Variables)
+        -   [ATTACHURL \-- full URL for attachments in the current
+            topic](TWikiVariables#ATTACHURL_full_URL_for_attachmen)
+        -   [ATTACHURLPATH \-- path of the attachment URL of the current
+            topic](TWikiVariables#ATTACHURLPATH_path_of_the_attach)
+        -   [BASETOPIC \-- base topic where an INCLUDE
+            started](TWikiVariables#BASETOPIC_base_topic_where_an_IN)
+        -   [BASEWEB \-- base web where an INCLUDE
+            started](TWikiVariables#BASEWEB_base_web_where_an_INCLUD)
+        -   [DISPLAYTIME \-- display
+            time](TWikiVariables#DISPLAYTIME_display_time)
+        -   [DISPLAYTIME{\"format\"} \-- formatted display
+            time](TWikiVariables#DISPLAYTIME_format_formatted_dis)
+        -   [ENCODE{\"string\"} \-- encodes a
+            string](TWikiVariables#ENCODE_string_encodes_a_string)
+        -   [FORMFIELD{\"format\"} \-- renders a field in the form
+            attached to some
+            topic](TWikiVariables#FORMFIELD_format_renders_a_field)
+        -   [GMTIME \-- GM time](TWikiVariables#GMTIME_GM_time)
+        -   [GMTIME{\"format\"} \-- formatted GM
+            time](TWikiVariables#GMTIME_format_formatted_GM_time)
+        -   [HOMETOPIC \-- home topic in each
+            web](TWikiVariables#HOMETOPIC_home_topic_in_each_web)
+        -   [HTTP\_HOST \-- environment
+            variable](TWikiVariables#HTTP_HOST_environment_variable)
+        -   [ICON{\"type\"} \-- small icon of common attachment
+            types](TWikiVariables#ICON_type_small_icon_of_common_a)
+        -   [INCLUDE{\"page\"} \-- include other topics or web
+            pages](TWikiVariables#INCLUDE_page_include_other_topic)
+        -   [INCLUDINGTOPIC \-- name of topic that includes current
+            topic](TWikiVariables#INCLUDINGTOPIC_name_of_topic_tha)
+        -   [INCLUDINGWEB \-- web that includes current
+            topic](TWikiVariables#INCLUDINGWEB_web_that_includes_c)
+        -   [MAINWEB \-- name of Main
+            web](TWikiVariables#MAINWEB_name_of_Main_web)
+        -   [METASEARCH \-- special search of meta
+            data](TWikiVariables#METASEARCH_special_search_of_met)
+        -   [NOTIFYTOPIC \-- name of the notify
+            topic](TWikiVariables#NOTIFYTOPIC_name_of_the_notify_t)
+        -   [PLUGINVERSION \-- the version of the TWiki Plugin
+            API](TWikiVariables#PLUGINVERSION_the_version_of_the)
+        -   [PLUGINVERSION{\"name\"} \-- the version of an installed
+            Plugin](TWikiVariables#PLUGINVERSION_name_the_version_o)
+        -   [PUBURL \-- the base URL of
+            attachments](TWikiVariables#PUBURL_the_base_URL_of_attachmen)
+        -   [PUBURLPATH \-- the base URL path of
+            attachments](TWikiVariables#PUBURLPATH_the_base_URL_path_of)
+        -   [REMOTE\_ADDR \-- environment
+            variable](TWikiVariables#REMOTE_ADDR_environment_variable)
+        -   [REMOTE\_PORT \-- environment
+            variable](TWikiVariables#REMOTE_PORT_environment_variable)
+        -   [REMOTE\_USER \-- environment
+            variable](TWikiVariables#REMOTE_USER_environment_variable)
+        -   [REVINFO \-- revision information of current
+            topic](TWikiVariables#REVINFO_revision_information_of)
+        -   [REVINFO{\"format\"} \-- formatted revision information of
+            topic](TWikiVariables#REVINFO_format_formatted_revisio)
+        -   [SCRIPTURL \-- script URL of
+            TWiki](TWikiVariables#SCRIPTURL_script_URL_of_TWiki)
+        -   [SCRIPTURLPATH \-- script URL path of
+            TWiki](TWikiVariables#SCRIPTURLPATH_script_URL_path_of)
+        -   [SCRIPTSUFFIX \-- script
+            suffix](TWikiVariables#SCRIPTSUFFIX_script_suffix)
+        -   [SEARCH{\"text\"} \-- search
+            content](TWikiVariables#SEARCH_text_search_content)
+        -   [SERVERTIME \-- server
+            time](TWikiVariables#SERVERTIME_server_time)
+        -   [SERVERTIME{\"format\"} \-- formatted server
+            time](TWikiVariables#SERVERTIME_format_formatted_serv)
+        -   [SPACEDTOPIC \-- topic name, spaced and
+            encoded](TWikiVariables#SPACEDTOPIC_topic_name_spaced_an)
+        -   [STARTINCLUDE \-- start position of topic text if
+            included](TWikiVariables#STARTINCLUDE_start_position_of_t)
+        -   [STATISTICSTOPIC \-- name of statistics
+            topic](TWikiVariables#STATISTICSTOPIC_name_of_statisti)
+        -   [STOPINCLUDE \-- end position of topic text if
+            included](TWikiVariables#STOPINCLUDE_end_position_of_topi)
+        -   [TOC \-- table of contents of current
+            topic](TWikiVariables#TOC_table_of_contents_of_current)
+        -   [TOC{\"Topic\"} \-- table of
+            contents](TWikiVariables#TOC_Topic_table_of_contents)
+        -   [TOPIC \-- name of current
+            topic](TWikiVariables#TOPIC_name_of_current_topic)
+        -   [TOPICLIST{\"format\"} \-- topic index of a
+            web](TWikiVariables#TOPICLIST_format_topic_index_of)
+        -   [TWIKIWEB \-- name of TWiki documentation
+            web](TWikiVariables#TWIKIWEB_name_of_TWiki_documenta)
+        -   [URLPARAM{\"name\"} \-- get value of a URL
+            parameter](TWikiVariables#URLPARAM_name_get_value_of_a_URL)
+        -   [USERNAME \-- your login
+            username](TWikiVariables#USERNAME_your_login_username)
+        -   [VAR{\"NAME\" web=\"Web\"} \-- get a preference value from
+            another
+            web](TWikiVariables#VAR_NAME_web_Web_get_a_preferenc)
+        -   [WEB \-- name of current
+            web](TWikiVariables#WEB_name_of_current_web)
+        -   [WEBLIST{\"format\"} \-- index of all
+            webs](TWikiVariables#WEBLIST_format_index_of_all_webs)
+        -   [WEBPREFSTOPIC \-- name of web preferences
+            topic](TWikiVariables#WEBPREFSTOPIC_name_of_web_prefer)
+        -   [WIKIHOMEURL \-- site home
+            URL](TWikiVariables#WIKIHOMEURL_site_home_URL)
+        -   [WIKINAME \-- your Wiki
+            username](TWikiVariables#WIKINAME_your_Wiki_username)
+        -   [WIKIPREFSTOPIC \-- name of site-wide preferences
+            topic](TWikiVariables#WIKIPREFSTOPIC_name_of_site_wide)
+        -   [WIKITOOLNAME \-- name of your TWiki
+            site](TWikiVariables#WIKITOOLNAME_name_of_your_TWiki)
+        -   [WIKIUSERNAME \-- your Wiki username with web
+            prefix](TWikiVariables#WIKIUSERNAME_your_Wiki_username)
+        -   [WIKIUSERSTOPIC \-- name of topic listing all registers
+            users](TWikiVariables#WIKIUSERSTOPIC_name_of_topic_lis)
+        -   [WIKIVERSION \-- the version of the installed TWiki
+            engine](TWikiVariables#WIKIVERSION_the_version_of_the_i)
+    -   [Preferences Variables](TWikiVariables#Preferences_Variables)
+    -   [Setting Preferences](TWikiVariables#Setting_Preferences)
+    -   [Creating Custom
+        Variables](TWikiVariables#Creating_Custom_Variables)
+:::
+
+[]{#TWiki_Variables} TWiki Variables
+====================================
+
+*Special text strings expand on the fly to display user data or system
+info*
+
+TWikiVariables are text strings - `%VARIABLE%` - that expand into
+content whenever a page is rendered for viewing. `VARIABLES` are
+replaced by data, either user-entered or automatically generated by
+TWiki (like the date, or the current username). There are predefined
+variables, and Preference variables that you can configure. You can also
+define custom variables, with new names and values.
+
+***Notes:***
+
+-   To leave a variable unexpanded, precede it with an exclamation
+    point, e.g. type `!%TOPIC%` to get %TOPIC%.
+-   Variables are expanded relative to the topic they are *used* in, not
+    the topic they are *defined* in.
+
+[]{#Predefined_Variables} Predefined Variables
+----------------------------------------------
+
+Most predefined variables return values that were either set in the
+`lib/twiki.cfg` file, when TWiki was installed, or taken from server
+info (like current username, or date and time). Many of the variables
+let you format the appearance of the display results.
+
+-   ![TIP](../pub/TWiki/TWikiDocGraphics/tip.gif){width="16"
+    height="16"} **Take the time to thoroughly read through ALL
+    preference variables.** If you actively configure your site, review
+    variables periodically. They cover a wide range of functions, and it
+    can be easy to miss the one perfect variable for something you have
+    in mind. For example, see `%INCLUDINGTOPIC%`, `%INCLUDE%`, and the
+    mighty `%SEARCH%`.
+
+This version of TWiki - 04 Sep 2004 \$Rev: 1742 \$ - expands the
+following variables (enclosed in `%` percent signs):
+
+[]{#VarATTACHURL}
+
+### []{#ATTACHURL_full_URL_for_attachmen} ATTACHURL \-- full URL for attachments in the current topic
+
+-   Syntax: `%ATTACHURL%`
+-   Expands to: `/pub/TWiki/TWikiVariablesAtoM`
+-   Example: If you attach a file you can refer to it as
+    `%ATTACHURL%/image.gif`
+-   Related:
+    [ATTACHURLPATH](TWikiVariables#VarATTACHURLPATH){.twikiAnchorLink},
+    [PUBURLPATH](TWikiVariables#VarPUBURLPATH){.twikiAnchorLink},
+    [SCRIPTURL](TWikiVariables#VarSCRIPTURL){.twikiAnchorLink},
+    [FileAttachments](FileAttachment){.twikiLink}
+
+[]{#VarATTACHURLPATH}
+
+### []{#ATTACHURLPATH_path_of_the_attach} ATTACHURLPATH \-- path of the attachment URL of the current topic
+
+-   Syntax: `%ATTACHURLPATH%`
+-   Expands to: `/pub/TWiki/TWikiVariablesAtoM`
+-   Related: [ATTACHURL](TWikiVariables#VarATTACHURL){.twikiAnchorLink},
+    [PUBURL](TWikiVariables#VarPUBURL){.twikiAnchorLink},
+    [FileAttachments](FileAttachment){.twikiLink}
+
+[]{#VarBASETOPIC}
+
+### []{#BASETOPIC_base_topic_where_an_IN} BASETOPIC \-- base topic where an INCLUDE started
+
+-   The name of the topic where a single or nested INCLUDE started -
+    same as `%TOPIC%` if there is no INCLUDE
+-   Syntax: `%BASETOPIC%`
+-   Related: [BASEWEB](TWikiVariables#VarBASEWEB){.twikiAnchorLink},
+    [INCLUDINGTOPIC](TWikiVariables#VarINCLUDINGTOPIC){.twikiAnchorLink},
+    [INCLUDE](TWikiVariables#VarINCLUDE){.twikiAnchorLink},
+    [TOPIC](TWikiVariables#VarTOPIC){.twikiAnchorLink}
+
+[]{#VarBASEWEB}
+
+### []{#BASEWEB_base_web_where_an_INCLUD} BASEWEB \-- base web where an INCLUDE started
+
+-   The web name where the includes started, e.g. the web of the first
+    topic of nested includes. Same as `%WEB%` in case there is no
+    include.
+-   Syntax: `%BASEWEB%`
+-   Related: [BASETOPIC](TWikiVariables#VarBASETOPIC){.twikiAnchorLink},
+    [INCLUDINGWEB](TWikiVariables#VarINCLUDINGWEB){.twikiAnchorLink},
+    [INCLUDE](TWikiVariables#VarINCLUDE){.twikiAnchorLink},
+    [WEB](TWikiVariables#VarWEB){.twikiAnchorLink}
+
+[]{#VarDISPLAYTIME}
+
+### []{#DISPLAYTIME_display_time} DISPLAYTIME \-- display time
+
+-   Syntax: `%DISPLAYTIME%`
+-   Expands to: `13 Sep 2018 - 08:04`
+-   Related:
+    [DISPLAYTIME{\"format\"}](TWikiVariables#VarDISPLAYTIME2){.twikiAnchorLink},
+    [GMTIME](TWikiVariables#VarGMTIME){.twikiAnchorLink},
+    [SERVERTIME](TWikiVariables#VarSERVERTIME){.twikiAnchorLink}
+
+[]{#VarDISPLAYTIME2}
+
+### []{#DISPLAYTIME_format_formatted_dis} DISPLAYTIME{\"format\"} \-- formatted display time
+
+-   Formatted time - either GMT or Local server time, depending on
+    setting in TWiki.cfg. Same format qualifiers as `%GMTIME%`
+-   Syntax: `%DISPLAYTIME{"format"}%`
+-   Example: `%DISPLAYTIME{"$hou:$min"}%` expands to `08:04`
+-   Related:
+    [DISPLAYTIME](TWikiVariables#VarDISPLAYTIME){.twikiAnchorLink},
+    [GMTIME](TWikiVariables#VarGMTIME){.twikiAnchorLink},
+    [SERVERTIME](TWikiVariables#VarSERVERTIME){.twikiAnchorLink}
+
+[]{#VarENCODE}
+
+### []{#ENCODE_string_encodes_a_string} ENCODE{\"string\"} \-- encodes a string
+
+-   Syntax: `%ENCODE{"string"}%`
+-   Supported parameters:
+      [Parameter:](TWikiVariables@sortcol=0&table=1&up=0#sorted_table "Sort by this column")   [Description:](TWikiVariables@sortcol=1&table=1&up=0#sorted_table "Sort by this column")   [Default:](TWikiVariables@sortcol=2&table=1&up=0#sorted_table "Sort by this column")
+      ---------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------ --------------------------------------------------------------------------------------
+      `"string"`                                                                               String to encode                                                                           required (can be empty)
+      `type="entity"`                                                                          Encode special characters into HTML entities, like a double quote into `&#034;`            URL encoding
+      `type="url"`                                                                             Encode special characters for URL parameter use, like a double quote into `%22`            (this is the default)
+
+-   Example: `%ENCODE{"spaced name"}%` expands to `spaced%20name`
+-   Related: [URLPARAM](TWikiVariables#VarURLPARAM){.twikiAnchorLink}
+
+[]{#VarFORMFIELD}
+
+### []{#FORMFIELD_format_renders_a_field} FORMFIELD{\"format\"} \-- renders a field in the form attached to some topic
+
+-   Syntax: `%FORMFIELD{"fieldname"}%`
+-   Supported parameters:
+      [Parameter:](TWikiVariables@sortcol=0&table=2&up=0#sorted_table "Sort by this column")   [Description:](TWikiVariables@sortcol=1&table=2&up=0#sorted_table "Sort by this column")   [Default:](TWikiVariables@sortcol=2&table=2&up=0#sorted_table "Sort by this column")
+      ---------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------ --------------------------------------------------------------------------------------
+      `"fieldname"`                                                                            The name of a [TWiki form](TWikiForms){.twikiLink} field                                   required
+      `topic="..."`                                                                            Topic where form data is located. May be of the form `Web.TopicName`                       Current topic
+      `format="..."`                                                                           Format string. `$value` expands to the field value                                         `"$value"`
+      `default="..."`                                                                          Text shown when no value is defined for the field                                          `""`
+      `alttext="..."`                                                                          Text shown when field is not found in the form                                             `""`
+
+-   Example:
+    `%FORMFIELD{"ProjectName" topic="Projects.SushiProject" default="(not set)" alttext="ProjectName field found"}%`
+-   Related: [SEARCH](TWikiVariables#VarSEARCH){.twikiAnchorLink}
+
+[]{#VarGMTIME}
+
+### []{#GMTIME_GM_time} GMTIME \-- GM time
+
+-   Syntax: `%GMTIME%`
+-   Expands to: `13 Sep 2018 - 08:04`
+-   Related:
+    [DISPLAYTIME](TWikiVariables#VarDISPLAYTIME){.twikiAnchorLink},
+    [GMTIME{\"format\"}](TWikiVariables#VarGMTIME2){.twikiAnchorLink},
+    [SERVERTIME](TWikiVariables#VarSERVERTIME){.twikiAnchorLink}
+
+[]{#VarGMTIME2}
+
+### []{#GMTIME_format_formatted_GM_time} GMTIME{\"format\"} \-- formatted GM time
+
+-   Syntax: `%GMTIME{"format"}%`
+-   Supported variables:
+      [Variable:](TWikiVariables@sortcol=0&table=3&up=0#sorted_table "Sort by this column")   [Unit:](TWikiVariables@sortcol=1&table=3&up=0#sorted_table "Sort by this column")   [Example](TWikiVariables@sortcol=2&table=3&up=0#sorted_table "Sort by this column")
+      --------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------- -------------------------------------------------------------------------------------
+      `$seconds`                                                                              seconds                                                                             59
+      `$minutes`                                                                              minutes                                                                             59
+      `$hours`                                                                                hours                                                                               23
+      `$day`                                                                                  day of month                                                                        31
+      `$wday`                                                                                 day of the Week (Sun, Mon, Tue, Wed, Thu, Fri, Sat)                                 Thu
+      `$month`                                                                                month in ISO format                                                                 Dec
+      `$mo`                                                                                   2 digit month                                                                       12
+      `$year`                                                                                 4 digit year                                                                        1999
+      `$ye`                                                                                   2 digit year                                                                        99
+      `$tz`                                                                                   either \"GMT\" (if set to gmtime), or \"Local\" (if set to servertime)              GMT
+      `$iso`                                                                                  ISO format timestamp                                                                2018-09-13T08:04Z
+      `$rcs`                                                                                  RCS format timestamp                                                                2018/09/13 08:04:22
+      `$http`                                                                                 E-mail & http format timestamp                                                      Thu, 13 Sep 2018 08:04:22 GMT
+
+-   Variables can be shortened to 3 characters
+-   Example: `%GMTIME{"$day $month, $year - $hour:$min:$sec"}%` expands
+    to `13 Sep, 2018 - 08:04:22`
+-   Related:
+    [DISPLAYTIME](TWikiVariables#VarDISPLAYTIME){.twikiAnchorLink},
+    [GMTIME](TWikiVariables#VarGMTIME){.twikiAnchorLink},
+    [SERVERTIME](TWikiVariables#VarSERVERTIME){.twikiAnchorLink}
+
+[]{#VarHOMETOPIC}
+
+### []{#HOMETOPIC_home_topic_in_each_web} HOMETOPIC \-- home topic in each web
+
+-   Syntax: `%HOMETOPIC%`
+-   Expands to: `WebHome`, renders as [WebHome](WebHome){.twikiLink}
+-   Related:
+    [NOTIFYTOPIC](TWikiVariables#VarNOTIFYTOPIC){.twikiAnchorLink},
+    [STATISTICSTOPIC](TWikiVariables#VarSTATISTICSTOPIC){.twikiAnchorLink},
+    [TOPIC](TWikiVariables#VarTOPIC){.twikiAnchorLink}
+
+[]{#VarHTTPHOST}
+
+### []{#HTTP_HOST_environment_variable} HTTP\_HOST \-- environment variable
+
+-   Syntax: `%HTTP_HOST%`
+-   Expands to: `www.program-transformation.org`
+-   Related:
+    [REMOTE\_ADDR](TWikiVariables#VarREMOTEADDR){.twikiAnchorLink},
+    [REMOTE\_PORT](TWikiVariables#VarREMOTEPORT){.twikiAnchorLink},
+    [REMOTE\_USER](TWikiVariables#VarREMOTEUSER){.twikiAnchorLink}
+
+[]{#VarICON}
+
+### []{#ICON_type_small_icon_of_common_a} ICON{\"type\"} \-- small icon of common attachment types
+
+-   Small 16x16 pixel icon of common attachment types. Specify file type
+    only, file name, or full path name
+-   Syntax: `%ICON{"type"}%`
+-   Samples: ![](../pub/icn/bmp.gif){width="16" height="16"} `bmp`,
+    ![](../pub/icn/doc.gif){width="16" height="16"} `doc`,
+    ![](../pub/icn/bmp.gif){width="16" height="16"} `gif`,
+    ![](../pub/icn/hlp.gif){width="16" height="16"} `hlp`,
+    ![](../pub/icn/html.gif){width="16" height="16"} `html`,
+    ![](../pub/icn/wav.gif){width="16" height="16"} `mp3`,
+    ![](../pub/icn/pdf.gif){width="16" height="16"} `pdf`,
+    ![](../pub/icn/ppt.gif){width="16" height="16"} `ppt`,
+    ![](../pub/icn/txt.gif){width="16" height="16"} `txt`,
+    ![](../pub/icn/xls.gif){width="16" height="16"} `xls`,
+    ![](../pub/icn/else.gif){width="16" height="16"} `xml`,
+    ![](../pub/icn/zip.gif){width="16" height="16"} `zip`
+-   Example: `%ICON{"pdf"}%` expands to
+    ![](../pub/icn/pdf.gif){width="16" height="16"}
+-   Related: [TWikiPreferences](TWikiPreferences){.twikiLink},
+    [FileAttachments](FileAttachment){.twikiLink},
+    [TWikiDocGraphics](TWikiDocGraphics){.twikiLink}
+
+[]{#VarINCLUDE}
+
+### []{#INCLUDE_page_include_other_topic} INCLUDE{\"page\"} \-- include other topics or web pages
+
+-   Syntax: `%INCLUDE{"page" ...}%`
+-   Supported parameters:
+      ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      [Parameter:](TWikiVariables@sortcol=0&table=4&up=0#sorted_table "Sort by this column")   [Description:](TWikiVariables@sortcol=1&table=4&up=0#sorted_table "Sort by this column")                                                                   [Default:](TWikiVariables@sortcol=2&table=4&up=0#sorted_table "Sort by this column")
+      ---------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------
+      `"SomeTopic"`                                                                            The name of a topic located in the current web, i.e. `%INCLUDE{"WebNotify"}%`                                                                               
+
+      `"Web.Topic"`                                                                            A topic in another web, i.e. `%INCLUDE{"TWiki.SiteMap"}%`                                                                                                   
+
+      `"http://..."`                                                                           A full qualified URL, i.e. `%INCLUDE{"http://twiki.org/"}%`\                                                                                                
+                                                                                               ***Note*** if the URL resolves to an attachment file on the server this will *automatically* translate to a server-side include.                           
+
+      `pattern="..."`                                                                          A [RegularExpression](RegularExpression){.twikiLink} pattern to include a subset of a topic or page                                                        none
+
+      `rev="1.2"`                                                                              Include a previous topic revision; N/A for URLs                                                                                                            top revision
+
+      `warn="off"`                                                                             Warn if topic include fails: Fail silently (if `off`); output default warning (if set to `on`); else, output specific text (use `$topic` for topic name)   `%INCLUDE- WARNING%` [preferences](TWikiPreferences){.twikiLink} setting
+      ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-   Related: [BASETOPIC](TWikiVariables#VarBASETOPIC){.twikiAnchorLink},
+    [BASEWEB](TWikiVariables#VarBASEWEB){.twikiAnchorLink},
+    [INCLUDINGTOPIC](TWikiVariables#VarINCLUDINGTOPIC){.twikiAnchorLink},
+    [INCLUDINGWEB](TWikiVariables#VarINCLUDINGWEB){.twikiAnchorLink},
+    [IncludeTopicsAndWebPages](http://www.program-transformation.org/TWiki/IncludeTopicsAndWebPages){.twikiLink},
+    [STARTINCLUDE](TWikiVariables#VarSTARTINCLUDE){.twikiAnchorLink},
+    [STOPINCLUDE](TWikiVariables#VarSTOPINCLUDE){.twikiAnchorLink},
+
+[]{#VarINCLUDINGTOPIC}
+
+### []{#INCLUDINGTOPIC_name_of_topic_tha} INCLUDINGTOPIC \-- name of topic that includes current topic
+
+-   The name of the topic that includes the current topic - same as
+    `%TOPIC%` in case there is no include
+-   Syntax: `%INCLUDINGTOPIC%`
+-   Related: [BASETOPIC](TWikiVariables#VarBASETOPIC){.twikiAnchorLink},
+    [INCLUDINGWEB](TWikiVariables#VarINCLUDINGWEB){.twikiAnchorLink},
+    [INCLUDE](TWikiVariables#VarINCLUDE){.twikiAnchorLink},
+    [TOPIC](TWikiVariables#VarTOPIC){.twikiAnchorLink}
+
+[]{#VarINCLUDINGWEB}
+
+### []{#INCLUDINGWEB_web_that_includes_c} INCLUDINGWEB \-- web that includes current topic
+
+-   The web name of the topic that includes the current topic - same as
+    `%WEB%` if there is no INCLUDE.
+-   Syntax: `%INCLUDINGWEB%`
+-   Related: [BASEWEB](TWikiVariables#VarBASEWEB){.twikiAnchorLink},
+    [INCLUDINGTOPIC](TWikiVariables#VarINCLUDINGTOPIC){.twikiAnchorLink},
+    [INCLUDE](TWikiVariables#VarINCLUDE){.twikiAnchorLink},
+    [WEB](TWikiVariables#VarWEB){.twikiAnchorLink}
+
+[]{#VarMAINWEB}
+
+### []{#MAINWEB_name_of_Main_web} MAINWEB \-- name of Main web
+
+-   The web containing [TWikiUsers](../Main/TWikiUsers){.twikiLink},
+    [OfficeLocations](../Main/OfficeLocations){.twikiLink} and
+    [TWikiGroups](../Main/TWikiGroups){.twikiLink}
+-   Syntax: `%MAINWEB%`
+-   Expands to: `Main`
+-   Related: [TWIKIWEB](TWikiVariables#VarTWIKIWEB){.twikiAnchorLink}
+
+[]{#VarMETASEARCH}
+
+### []{#METASEARCH_special_search_of_met} METASEARCH \-- special search of meta data
+
+-   Syntax: `%METASEARCH{...}%`
+-   Supported parameters:
+      --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      [Parameter:](TWikiVariables@sortcol=0&table=5&up=0#sorted_table "Sort by this column")   [Description:](TWikiVariables@sortcol=1&table=5&up=0#sorted_table "Sort by this column")   [Default:](TWikiVariables@sortcol=2&table=5&up=0#sorted_table "Sort by this column")
+      ---------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------ --------------------------------------------------------------------------------------
+      `type="topicmoved"`                                                                      What sort of search is required?\                                                          required
+                                                                                               `"topicmoved"` if search for a topic that may have been moved\                             
+                                                                                               `"parent"` if searching for topics that have a specific parent i.e. its children           
+
+      `web="%WEB%"`                                                                            Wiki web to search: A web, a list of webs separated by whitespace, or `all` webs.          current web
+
+      `topic="%TOPIC%"`                                                                        The topic the search relates to                                                            current topic
+
+      `title="Title"`                                                                          Text that is prefixed to any search results                                                empty
+
+      `default="none"`                                                                         Default text shown if no search hit                                                        empty
+      --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-   Example:
+    `%METASEARCH{type="topicmoved" web="%WEB%" topic="%TOPIC%" title="This topic used to exist and was moved to: "}%`
+-   Example: You may want to use this in
+    [WebTopicViewTemplate](WebTopicViewTemplate){.twikiLink} and
+    [WebTopicNonWikiTemplate](WebTopicNonWikiTemplate){.twikiLink}:\
+    `%METASEARCH{type="parent" web="%WEB%" topic="%TOPIC%" title="Children: "}%`
+-   Related: [SEARCH](TWikiVariables#VarSEARCH){.twikiAnchorLink}
+
+[]{#VarNOTIFYTOPIC}
+
+### []{#NOTIFYTOPIC_name_of_the_notify_t} NOTIFYTOPIC \-- name of the notify topic
+
+-   Syntax: `%NOTIFYTOPIC%`
+-   Expands to: `WebNotify`, renders as
+    [WebNotify](WebNotify){.twikiLink}
+-   Related: [HOMETOPIC](TWikiVariables#VarHOMETOPIC){.twikiAnchorLink},
+    [STATISTICSTOPIC](TWikiVariables#VarSTATISTICSTOPIC){.twikiAnchorLink},
+    [TOPIC](TWikiVariables#VarTOPIC){.twikiAnchorLink}
+
+[]{#VarPLUGINVERSION}
+
+### []{#PLUGINVERSION_the_version_of_the} PLUGINVERSION \-- the version of the TWiki Plugin API
+
+-   This is the `$TWiki::Plugins::VERSION` number, also indicating the
+    version of the [TWikiFuncModule](TWikiFuncModule){.twikiLink}
+-   Syntax: `%PLUGINVERSION{}%`
+-   Expands to: `1.025`
+-   Related:
+    [PLUGINVERSION{\"name\"}](TWikiVariables#VarPLUGINVERSION2){.twikiAnchorLink},
+    [WIKIVERSION](TWikiVariables#VarWIKIVERSION){.twikiAnchorLink}
+
+[]{#VarPLUGINVERSION2}
+
+### []{#PLUGINVERSION_name_the_version_o} PLUGINVERSION{\"name\"} \-- the version of an installed Plugin
+
+-   Syntax: `%PLUGINVERSION{"name"}%`
+-   Example: `%PLUGINVERSION{"DefaultPlugin"}%` expands to `1.021`
+-   Related:
+    [PLUGINVERSION](TWikiVariables#VarPLUGINVERSION){.twikiAnchorLink},
+    [WIKIVERSION](TWikiVariables#VarWIKIVERSION){.twikiAnchorLink}
+
+[]{#VarPUBURL}
+
+### []{#PUBURL_the_base_URL_of_attachmen} PUBURL \-- the base URL of attachments
+
+-   Syntax: `%PUBURL%`
+-   Expands to: `/pub`
+-   Example: You can refer to a file attached to another topic with
+    `%PUBURL%/%WEB%/OtherTopic/image.gif`
+-   Related: [ATTACHURL](TWikiVariables#VarATTACHURL){.twikiAnchorLink},
+    [PUBURLPATH](TWikiVariables#VarPUBURLPATH){.twikiAnchorLink},
+    [SCRIPTURL](TWikiVariables#VarSCRIPTURL){.twikiAnchorLink},
+    [FileAttachments](FileAttachment){.twikiLink}
+
+[]{#VarPUBURLPATH}
+
+### []{#PUBURLPATH_the_base_URL_path_of}[]{#PUBURLPATH_the_base_URL_path_of_} PUBURLPATH \-- the base URL path of attachments
+
+-   Syntax: `%PUBURLPATH%`
+-   Expands to: `/pub`
+-   Related: [ATTACHURL](TWikiVariables#VarATTACHURL){.twikiAnchorLink},
+    [PUBURL](TWikiVariables#VarPUBURL){.twikiAnchorLink},
+    [FileAttachments](FileAttachment){.twikiLink}
+
+[]{#VarREMOTEADDR}
+
+### []{#REMOTE_ADDR_environment_variable} REMOTE\_ADDR \-- environment variable
+
+-   Syntax: `%REMOTE_ADDR%`
+-   Expands to: `10.233.1.1`
+-   Related: [HTTP\_HOST](TWikiVariables#VarHTTPHOST){.twikiAnchorLink},
+    [REMOTE\_PORT](TWikiVariables#VarREMOTEPORT){.twikiAnchorLink},
+    [REMOTE\_USER](TWikiVariables#VarREMOTEUSER){.twikiAnchorLink}
+
+[]{#VarREMOTEPORT}
+
+### []{#REMOTE_PORT_environment_variable} REMOTE\_PORT \-- environment variable
+
+-   Syntax: `%REMOTE_PORT%`
+-   Expands to: `39996`
+-   Related: [HTTP\_HOST](TWikiVariables#VarHTTPHOST){.twikiAnchorLink},
+    [REMOTE\_ADDR](TWikiVariables#VarREMOTEADDR){.twikiAnchorLink},
+    [REMOTE\_USER](TWikiVariables#VarREMOTEUSER){.twikiAnchorLink}
+
+[]{#VarREMOTEUSER}
+
+### []{#REMOTE_USER_environment_variable} REMOTE\_USER \-- environment variable
+
+-   Syntax: `%REMOTE_USER%`
+-   Expands to: ``
+-   Related: [HTTP\_HOST](TWikiVariables#VarHTTPHOST){.twikiAnchorLink},
+    [REMOTE\_ADDR](TWikiVariables#VarREMOTEADDR){.twikiAnchorLink},
+    [REMOTE\_PORT](TWikiVariables#VarREMOTEPORT){.twikiAnchorLink},
+    [USERNAME](TWikiVariables#VarUSERNAME){.twikiAnchorLink},
+    [WIKINAME](TWikiVariables#VarWIKINAME){.twikiAnchorLink},
+    [WIKIUSERNAME](TWikiVariables#VarWIKIUSERNAME){.twikiAnchorLink}
+
+[]{#VarREVINFO}
+
+### []{#REVINFO_revision_information_of}[]{#REVINFO_revision_information_of_} REVINFO \-- revision information of current topic
+
+-   Syntax: `%REVINFO%`
+-   Expands to: `r1.1 - 14 Aug 2004 - 07:54 - PeterThoeny`
+-   Related:
+    [REVINFO{\"format\"}](TWikiVariables#VarREVINFO2){.twikiAnchorLink}
+
+[]{#VarREVINFO2}
+
+### []{#REVINFO_format_formatted_revisio} REVINFO{\"format\"} \-- formatted revision information of topic
+
+-   Syntax: `%REVINFO{"format"}%`
+-   Supported parameters:
+      [Parameter:](TWikiVariables@sortcol=0&table=6&up=0#sorted_table "Sort by this column")   [Description:](TWikiVariables@sortcol=1&table=6&up=0#sorted_table "Sort by this column")   [Default:](TWikiVariables@sortcol=2&table=6&up=0#sorted_table "Sort by this column")
+      ---------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------ --------------------------------------------------------------------------------------
+      `"format"`                                                                               Format of revision information, see supported variables below                              `"r1.$rev - $date - $wikiusername"`
+      `web="..."`                                                                              Name of web                                                                                Current web
+      `topic="..."`                                                                            Topic name                                                                                 Current topic
+      `rev="1.5"`                                                                              Specific revison number                                                                    Latest revision
+
+-   Supported variables in format:
+      [Variable:](TWikiVariables@sortcol=0&table=7&up=0#sorted_table "Sort by this column")   [Unit:](TWikiVariables@sortcol=1&table=7&up=0#sorted_table "Sort by this column")   [Example](TWikiVariables@sortcol=2&table=7&up=0#sorted_table "Sort by this column")
+      --------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------- -------------------------------------------------------------------------------------
+      `$web`                                                                                  Name of web                                                                         Current web
+      `$topic`                                                                                Topic name                                                                          Current topic
+      `$rev`                                                                                  Revison number. Prefix `r1.` to get the usual `r1.5` format                         `5`
+      `$date`                                                                                 Revision date                                                                       `11 Jul 2004`
+      `$username`                                                                             Login username of revision                                                          `jsmith`
+      `$wikiname`                                                                             [WikiName](WikiName){.twikiLink} of revision                                        `JohnSmith`
+      `$wikiusername`                                                                         WikiName with Main web prefix                                                       `Main.JohnSmith`
+
+-   Example: `%REVINFO{"$date - $wikiusername" rev="1.1"}%` returns
+    revision info of first revision
+-   Related: [REVINFO](TWikiVariables#VarREVINFO){.twikiAnchorLink}
+
+[]{#VarSCRIPTURL}
+
+### []{#SCRIPTURL_script_URL_of_TWiki} SCRIPTURL \-- script URL of TWiki
+
+-   Syntax: `%SCRIPTURL%`
+-   Expands to: ==
+-   Example: To get the authenticated version of current topic write
+    `%SCRIPTURL%/viewauth%SCRIPTSUFFIX%/%WEB%/%TOPIC%` which expands to
+    `/viewauth/TWiki/TWikiVariablesNtoZ`
+-   Related: [PUBURL](TWikiVariables#VarPUBURL){.twikiAnchorLink},
+    [SCRIPTSUFFIX](TWikiVariables#VarSCRIPTSUFFIX){.twikiAnchorLink},
+    [SCRIPTURLPATH](TWikiVariables#VarSCRIPTURLPATH){.twikiAnchorLink}
+
+[]{#VarSCRIPTURLPATH}
+
+### []{#SCRIPTURLPATH_script_URL_path_of} SCRIPTURLPATH \-- script URL path of TWiki
+
+-   Syntax: `%SCRIPTURLPATH%`
+-   Expands to: ==
+-   Related:
+    [PUBURLPATH](TWikiVariables#VarPUBURLPATH){.twikiAnchorLink},
+    [SCRIPTURL](TWikiVariables#VarSCRIPTURL){.twikiAnchorLink}
+
+[]{#VarSCRIPTSUFFIX}
+
+### []{#SCRIPTSUFFIX_script_suffix} SCRIPTSUFFIX \-- script suffix
+
+-   Some TWiki installations require a file extension for CGI scripts
+    like `.pl` or `.cgi`
+-   Syntax: `%SCRIPTSUFFIX%`
+-   Expands to: ``
+-   Related: [SCRIPTURL](TWikiVariables#VarSCRIPTURL){.twikiAnchorLink}
+
+[]{#VarSEARCH}
+
+### []{#SEARCH_text_search_content} SEARCH{\"text\"} \-- search content
+
+-   Inline search, shows a search result embedded in a topic
+-   Syntax: `%SEARCH{"text" ...}%`
+-   Supported parameters: \[1\]
+      ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      [Parameter:](TWikiVariables@sortcol=0&table=8&up=0#sorted_table "Sort by this column")   [Description:](TWikiVariables@sortcol=1&table=8&up=0#sorted_table "Sort by this column")                                                                                                                                                                                                                                                                         [Default:](TWikiVariables@sortcol=2&table=8&up=0#sorted_table "Sort by this column")
+      ---------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------
+      `"text"`                                                                                 Search term. Is a keyword search, literal search or regular expression search, depending on the `type` parameter. [SearchHelp](SearchHelp){.twikiLink} has more                                                                                                                                                                                                  required
+
+      `search="text"`                                                                          (Alternative to above)                                                                                                                                                                                                                                                                                                                                           N/A
+
+      `web="Name"`\                                                                            Wiki web to search: A web, a list of webs separated by comma, or `all` webs. \[2\]                                                                                                                                                                                                                                                                               Current web
+      `web="Main, Know"`\                                                                                                                                                                                                                                                                                                                                                                                                                                       
+      `web="all"`                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+      `topic="WebPreferences"`\                                                                Limit search to topics: A topic, a topic with asterisk wildcards, or a list of topics separated by comma.                                                                                                                                                                                                                                                        All topics in a web
+      `topic="*Bug"`                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+      `excludetopic="Web*"`\                                                                   Exclude topics from search: A topic, a topic with asterisk wildcards, or a list of topics separated by comma.                                                                                                                                                                                                                                                    None
+      `excludetopic="WebHome, WebChanges"`                                                                                                                                                                                                                                                                                                                                                                                                                      
+
+      `type="keyword"`\                                                                        Do a keyword search like `soap "web service" -shampoo`; a literal search like `web service`; or [RegularExpression](RegularExpression){.twikiLink} search like `soap;web service;!shampoo`                                                                                                                                                                       `%SEARCHVAR- DEFAULTTYPE%` [preferences](TWikiPreferences){.twikiLink} setting (literal)
+      `type="literal"`\                                                                                                                                                                                                                                                                                                                                                                                                                                         
+      `type="regex"`                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+      `scope="topic"`\                                                                         Search topic name (title); the text (body) of topic; or all (both)                                                                                                                                                                                                                                                                                               `"text"`
+      `scope="text"`\                                                                                                                                                                                                                                                                                                                                                                                                                                           
+      `scope="all"`                                                                                                                                                                                                                                                                                                                                                                                                                                             
+
+      `order="topic"`\                                                                         Sort the results of search by the topic names, topic creation time, last modified time, last editor, or named field of [TWikiForms](TWikiForms){.twikiLink}. The sorting is done web by web; in case you want to sort across webs, create a [formatted](FormattedSearch){.twikiLink} table and sort it with [TablePlugin](TablePlugin){.twikiLink}\'s initsort   Sort by topic name
+      `order="created"`\                                                                                                                                                                                                                                                                                                                                                                                                                                        
+      `order="modified"`\                                                                                                                                                                                                                                                                                                                                                                                                                                       
+      `order="editby"`\                                                                                                                                                                                                                                                                                                                                                                                                                                         
+      `order= "formfield(name)"`                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+      `limit="all"`\                                                                           Limit the number of results returned. This is done after sorting if `order` is specified                                                                                                                                                                                                                                                                         All results
+      `limit="16"`                                                                                                                                                                                                                                                                                                                                                                                                                                              
+
+      `reverse="on"`                                                                           Reverse the direction of the search                                                                                                                                                                                                                                                                                                                              Ascending search
+
+      `casesensitive="on"`                                                                     Case sensitive search                                                                                                                                                                                                                                                                                                                                            Ignore case
+
+      `nosummary="on"`                                                                         Show topic title only                                                                                                                                                                                                                                                                                                                                            Show topic summary
+
+      `bookview="on"`                                                                          [BookView](BookView){.twikiLink} search, e.g. show complete topic text                                                                                                                                                                                                                                                                                           Show topic summary
+
+      `nosearch="on"`                                                                          Suppress search string                                                                                                                                                                                                                                                                                                                                           Show search string
+
+      `noheader="on"`                                                                          Suppress search header\                                                                                                                                                                                                                                                                                                                                          Show search header
+                                                                                               [ **Topics: Changed: By:** ]{style="background: #FFB0B0;"}                                                                                                                                                                                                                                                                                                       
+
+      `nototal="on"`                                                                           Do not show number of topics found                                                                                                                                                                                                                                                                                                                               Show number
+
+      `header="..."`\                                                                          Custom format results: see **[FormattedSearch](FormattedSearch){.twikiLink}** for usage, variables & examples                                                                                                                                                                                                                                                    Results in table
+      `format="..."`                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+      `expandvariables="on"`                                                                   Expand variables before applying a [FormattedSearch](FormattedSearch){.twikiLink} on a search hit. Useful to show the expanded text, e.g. to show the result of a [SpreadSheetPlugin](SpreadSheetPlugin){.twikiLink} `%CALC{}%` instead of the formula                                                                                                           Raw text
+
+      `multiple="on"`                                                                          Multiple hits per topic. Each hit can be [formatted](FormattedSearch){.twikiLink}. The last token is used in case of a regular expression \";\" *and* search                                                                                                                                                                                                     Only one hit per topic
+
+      `separator=", "`                                                                         Line separator between hits                                                                                                                                                                                                                                                                                                                                      Newline `"$n"`
+      ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-   Example: `%SEARCH{"wiki" web="Main" scope="topic"}%`
+-   Example with format:
+    `%SEARCH{"FAQ" scope="topic" nosearch="on" nototal="on" header="| *Topic: * | *Summary: * |" format="| $topic | $summary |"%`
+    *(displays results in a table with header -
+    [details](FormattedSearch){.twikiLink})*
+-   ![HELP](../pub/TWiki/TWikiDocGraphics/help.gif){width="16"
+    height="16"} If the
+    [TWiki:Plugins.TablePlugin](http://twiki.org/cgi-bin/view/Plugins.TablePlugin "'Plugins.TablePlugin' on TWiki.org")
+    is installed, you may set a `%TABLE{}%` variable just before the
+    `%SEARCH{}%` to alter the output of a search. Example:
+    `%TABLE{ tablewidth="90%" }%`
+-   Related:
+    [METASEARCH](TWikiVariables#VarMETASEARCH){.twikiAnchorLink},
+    [TOPICLIST](TWikiVariables#VarTOPICLIST){.twikiAnchorLink},
+    [WEBLIST](TWikiVariables#VarWEBLIST){.twikiAnchorLink},
+    [FormattedSearch](FormattedSearch){.twikiLink}
+
+<!-- -->
+
+-   \[1\] ***Note***: The search form uses identical names for input
+    fields.
+-   \[2\] ***Note***: A web can be excluded from a `web="all"` search if
+    you define a `NOSEARCHALL=on` variable in its
+    [WebPreferences](WebPreferences){.twikiLink}
+
+[]{#VarSERVERTIME}
+
+### []{#SERVERTIME_server_time} SERVERTIME \-- server time
+
+-   Syntax: `%SERVERTIME%`
+-   Expands to: `13 Sep 2018 - 08:04`
+-   Related:
+    [DISPLAYTIME](TWikiVariables#VarDISPLAYTIME){.twikiAnchorLink},
+    [GMTIME](TWikiVariables#VarGMTIME){.twikiAnchorLink},
+    [SERVERTIME{\"format\"}](TWikiVariables#VarSERVERTIME2){.twikiAnchorLink}
+
+[]{#VarSERVERTIME2}
+
+### []{#SERVERTIME_format_formatted_serv} SERVERTIME{\"format\"} \-- formatted server time
+
+-   Same format qualifiers as `%GMTIME%`
+-   Syntax: `%SERVERTIME{"format"}%`
+-   Example: `%SERVERTIME{"$hou:$min"}%` expands to `08:04`
+-   Related:
+    [DISPLAYTIME](TWikiVariables#VarDISPLAYTIME){.twikiAnchorLink},
+    [GMTIME](TWikiVariables#VarGMTIME){.twikiAnchorLink},
+    [SERVERTIME](TWikiVariables#VarSERVERTIME){.twikiAnchorLink}
+
+[]{#VarSPACEDTOPIC}
+
+### []{#SPACEDTOPIC_topic_name_spaced_an} SPACEDTOPIC \-- topic name, spaced and encoded
+
+-   The current topic name with added spaces, for regular expression
+    search of Ref-By
+-   Syntax: `%SPACEDTOPIC%`
+-   Expands to: `TWiki%20*Variables%20*Nto%20*Z`
+-   Related: [TOPIC](TWikiVariables#VarTOPIC){.twikiAnchorLink}
+
+[]{#VarSTARTINCLUDE}
+
+### []{#STARTINCLUDE_start_position_of_t} STARTINCLUDE \-- start position of topic text if included
+
+-   If present in included topic, start to include text from this
+    location up to the end, or up to the location of the `%STOPINCLUDE%`
+    variable. A normal view of the topic shows everyting exept the
+    `%STARTINCLUDE%` variable itself.
+-   Syntax: `%STARTINCLUDE%`
+-   Related: [INCLUDE](TWikiVariables#VarINCLUDE){.twikiAnchorLink},
+    [STOPINCLUDE](TWikiVariables#VarSTOPINCLUDE){.twikiAnchorLink}
+
+[]{#VarSTATISTICSTOPIC}
+
+### []{#STATISTICSTOPIC_name_of_statisti} STATISTICSTOPIC \-- name of statistics topic
+
+-   Syntax: `%STATISTICSTOPIC%`
+-   Expands to: `WebStatistics`, renders as
+    [WebStatistics](WebStatistics){.twikiLink}
+-   Related: [HOMETOPIC](TWikiVariables#VarHOMETOPIC){.twikiAnchorLink},
+    [NOTIFYTOPIC](TWikiVariables#VarNOTIFYTOPIC){.twikiAnchorLink},
+    [TOPIC](TWikiVariables#VarTOPIC){.twikiAnchorLink}
+
+[]{#VarSTOPINCLUDE}
+
+### []{#STOPINCLUDE_end_position_of_topi} STOPINCLUDE \-- end position of topic text if included
+
+-   If present in included topic, stop to include text at this location
+    and ignore the remaining text. A normal view of the topic shows
+    everyting exept the `%STOPINCLUDE%` variable itself.
+-   Syntax: `%STOPINCLUDE%`
+-   Related: [INCLUDE](TWikiVariables#VarINCLUDE){.twikiAnchorLink},
+    [STARTINCLUDE](TWikiVariables#VarSTARTINCLUDE){.twikiAnchorLink}
+
+[]{#VarTOC}
+
+### []{#TOC_table_of_contents_of_current} TOC \-- table of contents of current topic
+
+-   Syntax: `%TOC%`
+-   Related:
+    [TOC{\"SomeTopic\"}](TWikiVariables#VarTOC2){.twikiAnchorLink}
+
+[]{#VarTOC2}
+
+### []{#TOC_Topic_table_of_contents} TOC{\"Topic\"} \-- table of contents
+
+-   Syntax: `%TOC{"SomeTopic" ...}%`
+-   Table of Contents. Shows a TOC that is generated automatically based
+    on headings of a topic. Headings in
+    [WikiSyntax](WikiSyntax){.twikiLink} (`"---++ text"`) and HTML
+    (`"<h2>text</h2>"`) are taken into account. Any heading text after
+    `"!!"` is excluded from the TOC; for example, write `"---+!! text"`
+    if you do not want to list a header in the TOC
+-   Supported parameters:
+      [Parameter:](TWikiVariables@sortcol=0&table=9&up=0#sorted_table "Sort by this column")   [Description:](TWikiVariables@sortcol=1&table=9&up=0#sorted_table "Sort by this column")   [Default:](TWikiVariables@sortcol=2&table=9&up=0#sorted_table "Sort by this column")
+      ---------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------ --------------------------------------------------------------------------------------
+      `"TopicName"`                                                                            topic name                                                                                 Current topic
+      `web="Name"`                                                                             Name of web                                                                                Current web
+      `depth="2"`                                                                              Limit depth of headings shown in TOC                                                       6
+      `title="Some text"`                                                                      Title to appear at top of TOC                                                              none
+
+-   Example: `%TOC{depth="2"}%`
+-   Example: `%TOC{"TWikiDocumentation" web="TWiki" title="Contents:"}%`
+-   Example: see
+    [TWiki:Sandbox.TestTopicInclude](http://twiki.org/cgi-bin/view/Sandbox.TestTopicInclude "'Sandbox.TestTopicInclude' on TWiki.org")
+-   Related: [TOC](TWikiVariables#VarTOC){.twikiAnchorLink}
+
+[]{#VarTOPIC}
+
+### []{#TOPIC_name_of_current_topic} TOPIC \-- name of current topic
+
+-   Syntax: `%TOPIC%`
+-   Expands to: `TWikiVariablesNtoZ`, renders as
+    [TWikiVariablesNtoZ](TWikiVariablesNtoZ){.twikiLink}
+-   Related: [BASETOPIC](TWikiVariables#VarBASETOPIC){.twikiAnchorLink},
+    [INCLUDINGTOPIC](TWikiVariables#VarINCLUDINGTOPIC){.twikiAnchorLink},
+    [TOPICLIST](TWikiVariables#VarTOPICLIST){.twikiAnchorLink},
+    [WEB](TWikiVariables#VarWEB){.twikiAnchorLink}
+
+[]{#VarTOPICLIST}
+
+### []{#TOPICLIST_format_topic_index_of}[]{#TOPICLIST_format_topic_index_of_} TOPICLIST{\"format\"} \-- topic index of a web
+
+-   The \"format\" defines the format of one topic item. It may include
+    variables: The `$name` variable gets expanded to the topic name; the
+    `$web` variable gets expanded to the name of the web.
+-   Syntax: `%TOPICLIST{"format" ...}%`
+-   Supported parameters:
+      [Parameter:](TWikiVariables@sortcol=0&table=10&up=0#sorted_table "Sort by this column")   [Description:](TWikiVariables@sortcol=1&table=10&up=0#sorted_table "Sort by this column")   [Default:](TWikiVariables@sortcol=2&table=10&up=0#sorted_table "Sort by this column")
+      ----------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------
+      `"format"`                                                                                Format of one line, may include `$name` and `$web` variables                                `"$name"`
+      `format="format"`                                                                         (Alternative to above)                                                                      `"$name"`
+      `separator=", "`                                                                          line separator                                                                              `"\n"` (new line)
+      `web="Name"`                                                                              Name of web                                                                                 Current web
+
+-   Example: `%TOPICLIST{"   * $web.$name"}%` creates a bullet list of
+    all topics
+-   Example: `%TOPICLIST{separator=", "}%` creates a comma separated
+    list of all topics
+-   Example: `%TOPICLIST{" <option>$name</option>"}%` creates an option
+    list (for drop down menus)
+-   Related: [SEARCH](TWikiVariables#VarSEARCH){.twikiAnchorLink},
+    [WEBLIST](TWikiVariables#VarWEBLIST){.twikiAnchorLink}
+
+[]{#VarTWIKIWEB}
+
+### []{#TWIKIWEB_name_of_TWiki_documenta} TWIKIWEB \-- name of TWiki documentation web
+
+-   The web containing all documentation and site-wide preference
+    settings for TWiki
+-   Syntax: `%TWIKIWEB%`
+-   Expands to: `TWiki`
+-   Related: [MAINWEB](TWikiVariables#VarMAINWEB){.twikiAnchorLink}
+
+[]{#VarURLPARAM}
+
+### []{#URLPARAM_name_get_value_of_a_URL} URLPARAM{\"name\"} \-- get value of a URL parameter
+
+-   Returns the value of a URL parameter. Note that there is a risk that
+    this variable could be misused for cross-scripting
+-   Syntax: `%URLPARAM{"name"}%`
+-   Supported parameters:
+      ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      [Parameter:](TWikiVariables@sortcol=0&table=11&up=0#sorted_table "Sort by this column")   [Description:](TWikiVariables@sortcol=1&table=11&up=0#sorted_table "Sort by this column")                                                                                     [Default:](TWikiVariables@sortcol=2&table=11&up=0#sorted_table "Sort by this column")
+      ----------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------
+      `"name"`                                                                                  The name of a URL parameter                                                                                                                                                   required
+
+      `default="..."`                                                                           Default value in case parameter is empty or missing                                                                                                                           empty string
+
+      `newline="<br />"`                                                                        Convert newlines in textarea to other delimiters                                                                                                                              no conversion
+
+      `encode="entity"`                                                                         Encode special characters into HTML entities, like a double quote into `&#034;`. This is needed if text is put into an HTML form field                                        no encoding
+
+      `encode="url"`                                                                            Encode special characters for URL parameter use, like a double quote into `%22`                                                                                               no encoding
+
+      `multiple="on"`\                                                                          If set, gets all selected elements of a `<select multiple="multiple">` tag. A format can be specified, with `$item` indicating the element, e.g. `multiple="Option: $item"`   first element
+      `multiple="[[$item]]"`                                                                                                                                                                                                                                                  
+
+      `separator=", "`                                                                          Separator between multiple selections. Only relevant if multiple is specified                                                                                                 `"\n"` (new line)
+      ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-   Example: `%URLPARAM{"skin"}%` returns `print` for a
+    `.../view/TWiki/TWikiVariablesNtoZ?skin=print` URL. [Test
+    this[^?^](http://www.program-transformation.org/edit/TWiki/ViewauthTWikiTWikiVariablesNtoZskinprint?topicparent=TWiki.TWikiVariables)]{.twikiNewLink
+    style="background : #FFFFCE;"}:
+-   Related: [SEARCH](TWikiVariables#VarSEARCH){.twikiAnchorLink},
+    [FormattedSearch](FormattedSearch){.twikiLink}
+
+[]{#VarUSERNAME}
+
+### []{#USERNAME_your_login_username} USERNAME \-- your login username
+
+-   TWiki makes names available in three formats: USERNAME like
+    `jsmith`, WIKINAME like `JohnSmith` and WIKIUSERNAME like
+    `Main.JohnSmith`. A user is a
+    [TWikiGuest](../Main/TWikiGuest){.twikiLink} in case the topic is
+    not authenticated
+-   Syntax: `%USERNAME%`
+-   Expands to: `guest`
+-   Related:
+    [REMOTE\_USER](TWikiVariables#VarREMOTEUSER){.twikiAnchorLink},
+    [WIKINAME](TWikiVariables#VarWIKINAME){.twikiAnchorLink},
+    [WIKIUSERNAME](TWikiVariables#VarWIKIUSERNAME){.twikiAnchorLink},
+    [TWikiUserAuthentication](TWikiUserAuthentication){.twikiLink}
+
+[]{#VarVAR}
+
+### []{#VAR_NAME_web_Web_get_a_preferenc} VAR{\"NAME\" web=\"Web\"} \-- get a preference value from another web
+
+-   Syntax: `%VAR{"NAME" web="Web"}%`
+-   Example: To get `%WEBBGCOLOR%` of the Main web write
+    `%VAR{"WEBBGCOLOR" web="Main"}%`, which expands to `#EEEEAA`
+-   Related:
+    [WEBPREFSTOPIC](TWikiVariables#VarWEBPREFSTOPIC){.twikiAnchorLink}
+
+[]{#VarWEB}
+
+### []{#WEB_name_of_current_web} WEB \-- name of current web
+
+-   Syntax: `%WEB%`
+-   Expands to: `TWiki`
+-   Related: [BASEWEB](TWikiVariables#VarBASEWEB){.twikiAnchorLink},
+    [INCLUDINGWEB](TWikiVariables#VarINCLUDINGWEB){.twikiAnchorLink},
+    [TOPIC](TWikiVariables#VarTOPIC){.twikiAnchorLink}
+
+[]{#VarWEBLIST}
+
+### []{#WEBLIST_format_index_of_all_webs} WEBLIST{\"format\"} \-- index of all webs
+
+-   List of all webs. Hidden webs are excluded, e.g. webs with a
+    `NOSEARCHALL=on` preference variable. The `"format"` defines the
+    format of one web item. The `$name` variable gets expanded to the
+    name of the web, `$qname` gets expanded to double quoted name,
+    `$marker` to `marker` where web matches `selection`.
+-   Syntax: `%WEBLIST{"format" ...}%`
+-   Supported parameters:
+      [Parameter:](TWikiVariables@sortcol=0&table=12&up=0#sorted_table "Sort by this column")   [Description:](TWikiVariables@sortcol=1&table=12&up=0#sorted_table "Sort by this column")   [Default:](TWikiVariables@sortcol=2&table=12&up=0#sorted_table "Sort by this column")
+      ----------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------
+      `"format"`                                                                                Format of one line, may include `$name` variable                                            `"$name"`
+      `format="format"`                                                                         (Alternative to above)                                                                      `"$name"`
+      `separator=", "`                                                                          line separator                                                                              `"\n"` (new line)
+      `webs="public"`                                                                           comma sep list of Web, public expands to all non-hidden                                     `"public"`
+      `marker="selected"`                                                                       Text for `$marker` where item matches `selection`, otherwise equals `""`                    `"selected"`
+      `selection="%WEB%"`                                                                       Current value to be selected in list                                                        `section="%WEB%"`
+
+-   Example: `%WEBLIST{"   * [[$name.WebHome]]"}%` creates a bullet list
+    of all webs.
+-   Example:
+    `%WEBLIST{"<option $marker value=$qname>$name</option>" webs="Trash,public" selection="TWiki" separator=" "}%`
+    Dropdown of all public Webs + Trash Web, current Web highlighted.
+-   Related: [TOPICLIST](TWikiVariables#VarTOPICLIST){.twikiAnchorLink},
+    [SEARCH](TWikiVariables#VarSEARCH){.twikiAnchorLink}
+
+[]{#VarWEBPREFSTOPIC}
+
+### []{#WEBPREFSTOPIC_name_of_web_prefer} WEBPREFSTOPIC \-- name of web preferences topic
+
+-   Syntax: `%WEBPREFSTOPIC%`
+-   Expands to: `WebPreferences`, renders as
+    [WebPreferences](WebPreferences){.twikiLink}
+-   Related: [HOMETOPIC](TWikiVariables#VarHOMETOPIC){.twikiAnchorLink},
+    [WIKIPREFSTOPIC](TWikiVariables#VarWIKIPREFSTOPIC){.twikiAnchorLink},
+    [VAR](TWikiVariables#VarVAR){.twikiAnchorLink}
+
+[]{#VarWIKIHOMEURL}
+
+### []{#WIKIHOMEURL_site_home_URL} WIKIHOMEURL \-- site home URL
+
+-   The base URL of TWiki, is the link of the Home icon in the upper
+    left corner, defined in TWiki.cfg
+-   Syntax: `%WIKIHOMEURL%`
+-   Expands to: `http://your.domain.com/twiki`
+-   Related:
+    [WIKITOOLNAME](TWikiVariables#VarWIKITOOLNAME){.twikiAnchorLink}
+
+[]{#VarWIKINAME}
+
+### []{#WIKINAME_your_Wiki_username} WIKINAME \-- your Wiki username
+
+-   The [WikiName](WikiName){.twikiLink} is the same as %USERNAME% if
+    not defined in the [TWikiUsers](../Main/TWikiUsers){.twikiLink}
+    topic
+-   Syntax: `%WIKINAME%`
+-   Expands to: `TWikiGuest`
+-   Related:
+    [REMOTE\_USER](TWikiVariables#VarREMOTEUSER){.twikiAnchorLink},
+    [USERNAME](TWikiVariables#VarUSERNAME){.twikiAnchorLink},
+    [WIKIUSERNAME](TWikiVariables#VarWIKIUSERNAME){.twikiAnchorLink},
+    [WIKIUSERSTOPIC](TWikiVariables#VarWIKIUSERSTOPIC){.twikiAnchorLink}
+
+[]{#VarWIKIPREFSTOPIC}
+
+### []{#WIKIPREFSTOPIC_name_of_site_wide} WIKIPREFSTOPIC \-- name of site-wide preferences topic
+
+-   Syntax: `%WIKIPREFSTOPIC%`
+-   Expands to: `TWikiPreferences`, renders as
+    [TWikiPreferences](TWikiPreferences){.twikiLink}
+-   Related: [HOMETOPIC](TWikiVariables#VarHOMETOPIC){.twikiAnchorLink},
+    [WEBPREFSTOPIC](TWikiVariables#VarWEBPREFSTOPIC){.twikiAnchorLink}
+
+[]{#VarWIKITOOLNAME}
+
+### []{#WIKITOOLNAME_name_of_your_TWiki}[]{#WIKITOOLNAME_name_of_your_TWiki_} WIKITOOLNAME \-- name of your TWiki site
+
+-   Syntax: `%WIKITOOLNAME%`
+-   Expands to: `TWiki`
+-   Related:
+    [WIKIHOMEURL](TWikiVariables#VarWIKIHOMEURL){.twikiAnchorLink},
+    [WIKIVERSION](TWikiVariables#VarWIKIVERSION){.twikiAnchorLink}
+
+[]{#VarWIKIUSERNAME}
+
+### []{#WIKIUSERNAME_your_Wiki_username}[]{#WIKIUSERNAME_your_Wiki_username_} WIKIUSERNAME \-- your Wiki username with web prefix
+
+-   Your %WIKINAME% with Main web prefix, useful to point to your TWiki
+    home page
+-   Syntax: `%WIKIUSERNAME%`
+-   Expands to: `Main.TWikiGuest`, renders as
+    [TWikiGuest](../Main/TWikiGuest){.twikiLink}
+-   Related:
+    [REMOTE\_USER](TWikiVariables#VarREMOTEUSER){.twikiAnchorLink},
+    [USERNAME](TWikiVariables#VarUSERNAME){.twikiAnchorLink},
+    [WIKINAME](TWikiVariables#VarWIKINAME){.twikiAnchorLink}
+
+[]{#VarWIKIUSERSTOPIC}
+
+### []{#WIKIUSERSTOPIC_name_of_topic_lis} WIKIUSERSTOPIC \-- name of topic listing all registers users
+
+-   Syntax: `%WIKIUSERSTOPIC%`
+-   Expands to: `TWikiUsers`, with Main prefix renders as
+    [TWikiUsers](../Main/TWikiUsers){.twikiLink}
+-   Related:
+    [WIKIUSERNAME](TWikiVariables#VarWIKIUSERNAME){.twikiAnchorLink}
+
+[]{#VarWIKIVERSION}
+
+### []{#WIKIVERSION_the_version_of_the_i} WIKIVERSION \-- the version of the installed TWiki engine
+
+-   Syntax: `%WIKIVERSION%`
+-   Expands to: `04 Sep 2004 $Rev: 1742 $`
+-   Related:
+    [PLUGINVERSION](TWikiVariables#VarPLUGINVERSION){.twikiAnchorLink},
+    [WIKITOOLNAME](TWikiVariables#VarWIKITOOLNAME){.twikiAnchorLink}
+
+***Note:*** Above text is included from
+[TWikiVariablesAtoM](TWikiVariablesAtoM){.twikiLink} and
+[TWikiVariablesNtoZ](TWikiVariablesNtoZ){.twikiLink}
+
+[]{#PreferencesVariables}
+
+[]{#Preferences_Variables} Preferences Variables
+------------------------------------------------
+
+Additional variables are defined in the preferences topics:
+
+-   site-level ( ***SL*** ) in
+    [TWikiPreferences](TWikiPreferences){.twikiLink}
+-   web-level ( ***WL*** ) in
+    [WebPreferences](WebPreferences){.twikiLink} of each web
+-   user level ( ***UL*** ) in individual user topics
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Variable:                     Level:                What:                                                                                                                                                                                                                                                                                                                                                                                                                                     Expands to:
+  ----------------------------- --------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  `%ALLOWTOPICCHANGE%`          ***(any topic)***     List of users and groups who are **allowed** to change the current topic. (More in [TWikiAccessControl](TWikiAccessControl){.twikiLink})                                                                                                                                                                                                                                                                                                  [TWikiAdminGroup](../Main/TWikiAdminGroup){.twikiLink}  
+
+  `%ALLOWTOPICRENAME%`          ***(any topic)***     List of users and groups who are **allowed** to rename the current topic. (More in [TWikiAccessControl](TWikiAccessControl){.twikiLink})                                                                                                                                                                                                                                                                                                  [TWikiAdminGroup](../Main/TWikiAdminGroup){.twikiLink}  
+
+  `%ALLOWWEBCHANGE%`            ***WL***              List of users and groups who are **allowed** to change topics in the TWiki web. (More in [TWikiAccessControl](TWikiAccessControl){.twikiLink})                                                                                                                                                                                                                                                                                            [TWikiAdminGroup](../Main/TWikiAdminGroup){.twikiLink}  
+
+  `%ALLOWWEBRENAME%`            ***WL***              List of users and groups who are **allowed** to rename topics in the TWiki web. (More in [TWikiAccessControl](TWikiAccessControl){.twikiLink})                                                                                                                                                                                                                                                                                            [TWikiAdminGroup](../Main/TWikiAdminGroup){.twikiLink}  
+
+  `%ATTACHLINKBOX%`             ***SL*** , ***UL***   Default state of the link check box in the attach file page. Check box is initially checked if value is set to `CHECKED` , unchecked if empty. If checked, a link is created to the attached file at the end of the topic. Value is: **``**                                                                                                                                                                                                
+
+  `%DENYTOPICCHANGE%`           ***(any topic)***     List of users and groups who are **not allowed** to change the current topic. (More in [TWikiAccessControl](TWikiAccessControl){.twikiLink})                                                                                                                                                                                                                                                                                              \%DENYTOPICCHANGE%  
+
+  `%DENYTOPICRENAME%`           ***(any topic)***     List of users and groups who are **not allowed** to rename the current topic. (More in [TWikiAccessControl](TWikiAccessControl){.twikiLink})                                                                                                                                                                                                                                                                                              \%DENYTOPICRENAME%  
+
+  `%DENYWEBCHANGE%`             ***WL***              List of users and groups who are **not allowed** to change topics in the TWiki web. (More in [TWikiAccessControl](TWikiAccessControl){.twikiLink})                                                                                                                                                                                                                                                                                         
+
+  `%DENYWEBRENAME%`             ***WL***              List of users and groups who are **not allowed** to rename topics in the TWiki web. (More in [TWikiAccessControl](TWikiAccessControl){.twikiLink})                                                                                                                                                                                                                                                                                         
+
+  `%DONTNOTIFYCHECKBOX%`        ***SL*** , ***UL***   Default state of the \"Minor Changes, Don\'t Notify\" ([DontNotify](DontNotify){.twikiLink}) check box in preview. Check box is initially checked if `Set DONTNOTIFYCHECKBOX = checked="checked"`, or unchecked if empty. Value is: **``**                                                                                                                                                                                                 
+
+  `%EDITBOXHEIGHT%`             ***SL*** , ***UL***   Vertical size of edit box, is **`42`**                                                                                                                                                                                                                                                                                                                                                                                                    42  
+
+  `%EDITBOXWIDTH%`              ***SL*** , ***UL***   Horizontal size of edit box, is **`100`**                                                                                                                                                                                                                                                                                                                                                                                                 100  
+
+  `%EDITBOXSTYLE%`              ***SL*** , ***UL***   Style of text edit box. Set to `width: 99%` for full window width (default; overwrites the EDITBOXWIDTH setting), or `width: auto` to disable. Value is: **`width: 99%`**                                                                                                                                                                                                                                                                 width: 99%  
+
+  `%FINALPREFERENCES%`          ***SL*** , ***WL***   List of preferences that are not allowed to be overridden by next level preferences                                                                                                                                                                                                                                                                                                                                                       ATTACHFILESIZELIMIT, PREVIEWBGIMAGE, WIKITOOLNAME, WIKIWEBMASTER, SMTPMAILHOST, SMTPSENDERHOST, ALLOWWEBMANAGE, READTOPICPREFS, TOPICOVERRIDESUSER, ALLOWTOPICCHANGE, ALLOWTOPICRENAME, ALLOWWEBMANAGE, NOSEARCHALL, ATTACHFILESIZELIMIT, WIKIWEBMASTER, WEBCOPYRIGHT, WEBTOPICLIST, DENYWEBVIEW, ALLOWWEBVIEW, DENYWEBCHANGE, ALLOWWEBCHANGE, DENYWEBRENAME, ALLOWWEBRENAME  
+
+  `%HTTP_EQUIV_ON_EDIT%`        ***SL*** , ***UL***   http-equiv meta tags for edit script.                                                                                                                                                                                                                                                                                                                                                                                                      
+
+  `%HTTP_EQUIV_ON_PREVIEW%`     ***SL*** , ***UL***   http-equiv meta tags for preview script.                                                                                                                                                                                                                                                                                                                                                                                                   
+
+  `%HTTP_EQUIV_ON_VIEW%`        ***SL***              http-equiv meta tags for view, rdiff, attach, search\* scripts.                                                                                                                                                                                                                                                                                                                                                                            
+
+  `%NEWTOPICBGCOLOR%`           ***SL*** , *UL*       Background color of non existing topic. ( ***UL*** needs authentication for topic views )                                                                                                                                                                                                                                                                                                                                                 \#FFFFCE  
+
+  `%NEWTOPICFONTCOLOR%`         ***SL*** , *UL*       Font color of non existing topic. ( ***UL*** needs authentication for topic views )                                                                                                                                                                                                                                                                                                                                                       \#0000FF  
+
+  `%NOSEARCHALL%`               ***WL***              Exclude web from a `web="all"` search (set variable to `on` for hidden webs)                                                                                                                                                                                                                                                                                                                                                               
+
+  `%RELEASEEDITLOCKCHECKBOX%`   ***SL*** , ***UL***   Default state of the \"Release edit lock\" ([UnlockTopic](UnlockTopic){.twikiLink}) check box in preview. Checkbox is initially checked if `Set RELEASEEDITLOCKCHECKBOX = checked="checked"`, or unchecked if empty. If checked, make sure to click on [Edit]{.underline} to do more changes; do **not** go back in your browser to the edit page, or you risk that someone else will edit the topic at the same time! Value is: **``**    
+
+  `%WEBBGCOLOR%`                ***WL***              Background color of web                                                                                                                                                                                                                                                                                                                                                                                                                   \#FFD8AA  
+
+  `%WEBCOPYRIGHT%`              ***SL*** , ***WL***   Copyright notice (bottom right corner of topics)                                                                                                                                                                                                                                                                                                                                                                                          Copyright © 1999-2018 by the contributing authors. All material on this collaboration platform is the property of the contributing authors.\
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Ideas, requests, problems regarding TWiki? [Send feedback](mailto:webmaster@strategoxt.org?subject=TWiki%20Feedback%20on%20TWiki.TWikiVariables)  
+
+  `%WEBTOPICLIST%`              ***WL***              Common links of web (second line of topics)                                                                                                                                                                                                                                                                                                                                                                                               [Welcome](WelcomeGuest){.twikiLink} [\|]{.twikiSeparator} [Register](TWikiRegistration){.twikiLink} [\|]{.twikiSeparator} [Changes](WebChanges){.twikiLink} [\|]{.twikiSeparator} [Topics](WebTopicList){.twikiLink} [\|]{.twikiSeparator} [Index](WebIndex){.twikiLink} [\|]{.twikiSeparator} [Search](WebSearch){.twikiLink} [\|]{.twikiSeparator} Go  
+
+  `%WIKIWEBLIST%`               ***SL***              List of TWiki webs (in upper right corner of topics)                                                                                                                                                                                                                                                                                                                                                                                      [Main](../Main/WebHome){.twikiLink} [\|]{.twikiSeparator} [TWiki](WebHome){.twikiLink} [\|]{.twikiSeparator} [Sandbox](../Sandbox/WebHome){.twikiLink}  
+
+  `%WIKIWEBMASTER%`             ***SL***              Webmaster email address (sender of email notifications) , is **webmaster\@strategoxt.org**                                                                                                                                                                                                                                                                                                                                                <webmaster@strategoxt.org>  
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+***Note:*** There are some more useful variables defined in the
+[TWikiPreferences](TWikiPreferences){.twikiLink} like `%BR%` for line
+break, colors like `%RED%` for colored text and small icons like `%H%`
+for a ![HELP](../pub/TWiki/TWikiDocGraphics/help.gif){width="16"
+height="16"} Help icon.
+
+[]{#SettingPrefs}
+
+[]{#Setting_Preferences} Setting Preferences
+--------------------------------------------
+
+-   The syntax for Preferences Variables is the same anywhere in TWiki
+    (on its own TWiki bullet line, including nested bullets):\
+    \[multiple of 3 spaces\] \* \[space\] Set \[space\] VARIABLENAME
+    \[space\] = \[value\]\
+    ***Examples:***
+-   `Set VARIABLENAME = value`
+    -   `Set VARIABLENAME = value`
+
+[]{#Creating_Custom_Variables} Creating Custom Variables
+--------------------------------------------------------
+
+-   You can add your own Preference Variables for us across an entire
+    site or a single web, using the standard [Preferences
+    syntax](TWikiVariables#SettingPrefs){.twikiAnchorLink}. Whatever you
+    include in your Variable will be expanded on display, exactly as if
+    it had been entered directly. You can place formatted text, page
+    links, image paths.
+
+> **Example: Create a custom logo variable the TWiki web**\
+>
+> -   To place a logo anywhere in a web by typing `%MYLOGO%`, define the
+>     Variable on the web\'s
+>     [WebPreferences](WebPreferences){.twikiLink} page, and upload a
+>     logo file, ex: `mylogo.gif`. You can upload by [attaching the
+>     file](FileAttachment){.twikiLink} to
+>     [WebPreferences](WebPreferences){.twikiLink}, or, to avoid
+>     clutter, to any other topic in the same web, ex: `LogoTopic`:
+>     -   `Set MYLOGO = %PUBURL%/TWiki/LogoTopic/mylogo.gif`
+
+\--
+[TWiki:Main.PeterThoeny](http://twiki.org/cgi-bin/view/Main.PeterThoeny "'Main.PeterThoeny' on TWiki.org")
+- 14 Aug 2004\
+\--
+[TWiki:Main.MikeMannix](http://twiki.org/cgi-bin/view/Main.MikeMannix "'Main.MikeMannix' on TWiki.org")
+- 12 May 2002
+
+Crawford split up this topic into included
+[TWikiVariablesAtoM](TWikiVariablesAtoM){.twikiLink} and
+[TWikiVariablesNtoZ](TWikiVariablesNtoZ){.twikiLink}.
+
+\-- [PeterThoeny](../Main/PeterThoeny){.twikiLink} - 26 Jul 2004\
+[]{#TopicEnd}
+:::
+
+::: {.twikiTopicInfo .twikiRevInfo .twikiGrayText .twikiMoved}
+:::
+:::
+:::
+:::

@@ -1,0 +1,225 @@
+::: {.fullPage}
+::: {.twikiMiddleContainer}
+::: {.twikiLeftBar}
+::: {.twikiLeftBarContents}
+![](../pub/transformation.gif)
+
+------------------------------------------------------------------------
+
+**[Home](WebHome){.twikiLink}**
+
+**Surveys**\
+[Transformation](ProgramTransformation){.twikiLink}\
+[Reengineering](ReengineeringWiki){.twikiLink}\
+[DSL](DomainSpecificLanguages){.twikiLink}\
+[Domain Engineering](DomainEngineering){.twikiLink}\
+[Decompilation](DeCompilation){.twikiLink}\
+[Generative Progr.](GenerativeProgrammingWiki){.twikiLink}\
+\
+**[Collections](CategoryCollection){.twikiLink}**\
+[Categories](CategoryCategory){.twikiLink}\
+[Systems](TransformationSystems){.twikiLink}\
+[Conferences](TransformationConferences){.twikiLink}\
+[People](TransformationPeople){.twikiLink}\
+[Companies](TransformationCompanies){.twikiLink}\
+[Papers](CategoryPaper){.twikiLink}
+
+------------------------------------------------------------------------
+
+[![](../pub/rss.gif "RSS 1.0 feed")](WebRss@skin=rss)
+:::
+:::
+
+::: {.twikiMain}
+::: {.toolBar}
+::: {.flexMenuBar}
+::: {.flexMenu onmouseover="return showMenu(event, 100);" onmouseout="return hideMenu(event, 100);"}
+Page
+
+::: {#flexMenuContent100 .flexMenuContent}
+-   [Edit
+    Page](http://www.program-transformation.org/edit/Transform/DeFeater?t=1536826454)
+-   [Rename
+    Page](http://www.program-transformation.org/rename/Transform/DeFeater)
+-   [Attach
+    File](http://www.program-transformation.org/attach/Transform/DeFeater)
+
+<!-- -->
+
+-   [Printable](http://www.program-transformation.org/view/Transform/DeFeater?skin=print.pattern)
+-   [Wiki
+    Source](http://www.program-transformation.org/view/Transform/DeFeater?skin=text&raw=on&contenttype=text/plain)
+
+<!-- -->
+
+-   [Rev
+    3](http://www.program-transformation.org/view/Transform/DeFeater?rev=1.3)
+    [(diff 2)](http://www.program-transformation.org/rdiff/Transform/DeFeater?rev1=1.3&rev2=1.2)
+-   [Rev
+    2](http://www.program-transformation.org/view/Transform/DeFeater?rev=1.2)
+    [(diff 1)](http://www.program-transformation.org/rdiff/Transform/DeFeater?rev1=1.2&rev2=1.1)
+-   [Rev
+    1](http://www.program-transformation.org/view/Transform/DeFeater?rev=1.1)
+-   [Total
+    History](http://www.program-transformation.org/rdiff/Transform/DeFeater)
+
+<!-- -->
+
+-   [More
+    \...](http://www.program-transformation.org/oops/Transform/DeFeater?template=oopsmore&param1=1.3&param2=1.3)
+:::
+:::
+
+::: {.flexMenu onmouseover="return showMenu(event, 102);" onmouseout="return hideMenu(event, 102);"}
+Web
+
+::: {#flexMenuContent102 .flexMenuContent}
+-   [Recent Changes](WebChanges){.twikiLink}
+-   [Notify Service](WebNotify){.twikiLink}
+-   [News](WebNews){.twikiLink}
+
+<!-- -->
+
+-   [Page Index](WebIndex){.twikiLink}
+-   [Search](WebSearch){.twikiLink}
+
+<!-- -->
+
+-   [More
+    \...](http://www.program-transformation.org/oops/Transform/DeFeater?template=oopsmore&param1=1.3&param2=1.3)
+:::
+:::
+
+::: {.flexMenu onmouseover="return showMenu(event, 103);" onmouseout="return hideMenu(event, 103);"}
+Wiki
+
+::: {#flexMenuContent103 .flexMenuContent}
+-   [About
+    TWiki](http://www.program-transformation.org/view/TWiki/WebHome)
+-   [Text
+    Formatting](http://www.program-transformation.org/view/TWiki/TextFormattingRules)
+
+<!-- -->
+
+-   [Registration](http://www.program-transformation.org/view/TWiki/TWikiRegistration)
+-   [Change
+    Password](http://www.program-transformation.org/view/TWiki/ChangePassword)
+-   [Reset
+    Password](http://www.program-transformation.org/view/TWiki/ResetPassword)
+
+<!-- -->
+
+-   [Users](http://www.program-transformation.org/view/Main/TWikiUsers)
+-   [Groups](http://www.program-transformation.org/view/Main/TWikiGroups)
+:::
+:::
+:::
+:::
+
+::: {.twikiTopic}
+De Feater {#de-feater .twikiTopicTitle}
+=========
+
+::: {.twikiWebTitle}
+Program-Transformation.Org: The Program Transformation Wiki
+:::
+
+[]{#Visual_Basic_Discompiler_Decompi} Visual Basic Discompiler (Decompiler) Defeater
+====================================================================================
+
+*This page only exists in archive.org for December 1996, which may be
+the boundary of the archive. In case it disappears, therefore, I\'m
+reproducing it here as a Wiki page; Visual Basic decompilers do seem to
+be popular. The original page was
+<http://www.shadow.net/~npi/dcompile.htm>. I have no idea how current
+this is.*
+
+------------------------------------------------------------------------
+
+The discompiler (from DoDi in Germany) and allied tools really work. You
+may think that the information is worthless because the names are not
+too meaningful to you. However, get some experience reading someone
+else\'s code and tracing how it works. The compiler creates good code,
+at least typically good enough to make anybody nervous and interested in
+defeating the decompilation process (you may want to review some of the
+current and possible new legal issues on trade secrets, decompilation,
+and methods to defeat encryption). The object names generated by the
+discompiler actually make a lot of sense. When objects can be extracted
+from the forms, the decompiler will show the original name. When objects
+have been tokenized so that the name is not recoverable, the decompiler
+will assign initials for objects and for uniqueness assign the memory
+offset in the program. Realize that you can load the sources into the VB
+development environment and globally change these variable names. For
+example, a variable name called \"I0028\" is long integer that should
+contain system information and the variable \"I002A\" is a message
+string generated by the values from that information which you can
+rename to \"mLoopCounter\" and \"sStatusString.\"
+
+Furthermore, those demos and shareware sitting on BBS around the world
+with their high bits slowly decaying to \"0\" are prime dumpsters for
+source code. It is like picking through the printouts in the trash for
+trade secrets. A couple bits here or there, a command triggered by a
+.INI or the Windows registration file, and the demo is a real
+application. That executable can be decompiled, studied for about an
+hour or two, tweaked here and there, and then recompiled into a new
+fully-functional application. What is copyright protection and trade
+secret enforcement when the key to VB source is broken?
+
+There are proactive solutions available. First, you can alter the source
+code so that it is not so easily understood. That is a stupid approach
+at face value because you cannot read it either and make much sense of
+the code. This defeats the purpose of reusable code, code libraries,
+team development, and Attila. However, this does not mean you can\'t
+precompile your code and convert it into nonsense before the VB
+compilation. This works, but you still get serialized variable names out
+of the discompiler.
+
+Second, you can alter the exectuable so that it is not as easily
+decompiled. This means overwriting some of the names, addresses, and
+objects so that the P-code will still run while the compiler will choke.
+Obviously every change made forces the designers of decompilers to build
+newer and better tools to retrieve the source code in spite of these
+modications. It is a never-ending game. There have been decompilers and
+disassemblers on PCs since CP/M. However, VB\'s P-code rather than true
+compilation means that it is easier to get source that is in a higher
+level form. My solution is the Decompiler Defeater, OVERRIDE.ZIP. I read
+a few VB applications in hex code and deciphered where the objects and
+text-based references were stored and overwrote them. That stopped the
+decompiler (discompiler) for now. You can register the tool through
+CompuServe SWREG 8135. The demo runs against all VB executable programs
+(compiled runtime files). Some quirks do show up depending upon the
+resources referenced in the VB runtime, but generally the full version
+is innocuous and effective with current decompilers.
+
+Another technique is to upgrade to VB 4.0. This does not defeat the
+discompiler, but VB 4.0 provides conditional compilation so that demos,
+shareware, and full versions are actually different executable files.
+This minimizes your source code exposure\... somewhat. However, if you
+combine all these techniques, you probably can make the application so
+hard to crack that competitors will not try and you will keep out
+unmotivated prying eyes. Hardware locks, specialized output devices, and
+dongles can add to the decompiler\'s difficulty. However, you may also
+create a puzzle, which by its very difficulty may attract hackers who
+merely want to break it. Since hackers can disassemble Windows itself
+(and there are workalike Win [API](API){.twikiLink} toolkits and Windows
+emulations for other platforms), you might just think about updating
+your applications often enough and with enough new enhancements each
+time to stay ahead of the power curve.
+
+Download Decompiler Defeater(override.zip 74 kb) now!
+
+[CategoryDecompilation](CategoryDecompilation){.twikiLink}\
+[]{#TopicEnd}
+:::
+
+::: {.twikiAttachments}
+  [I](DeFeater@sortcol=0&table=1&up=0#sorted_table "Sort by this column")   [Attachment](../TWiki/FileAttachment){.twikiLink} [![sort](../pub/TWiki/TablePlugin/diamond.gif)](DeFeater@sortcol=1&table=1&up=0#sorted_table "Sort by this column")   [Action](DeFeater@sortcol=2&table=1&up=0#sorted_table "Sort by this column")                                                                                        [Size](DeFeater@sortcol=3&table=1&up=0#sorted_table "Sort by this column") [Date](DeFeater@sortcol=4&table=1&up=0#sorted_table "Sort by this column")   [Who](DeFeater@sortcol=5&table=1&up=0#sorted_table "Sort by this column")   [Comment](DeFeater@sortcol=6&table=1&up=0#sorted_table "Sort by this column")
+  ------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------- ---------------------------------------------------------------------------- --------------------------------------------------------------------------- -------------------------------------------------------------------------------
+  ![](../pub/icn/zip.gif){width="16" height="16"}                           [override.zip](../pub/Transform/DeFeater/override.zip)                                                                                                                  [manage](http://www.program-transformation.org/attach/Transform/DeFeater?filename=override.zip&revInfo=1 "change, update, previous revisions, move, delete...")                                                                         73.1 K 25 Jan 2003 - 05:03                                                          [MikeVanEmmerik](../Main/MikeVanEmmerik){.twikiLink}                        Override.zip: see above
+:::
+
+::: {.twikiTopicInfo .twikiRevInfo .twikiGrayText .twikiMoved}
+:::
+:::
+:::
+:::

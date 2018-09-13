@@ -1,0 +1,162 @@
+::: {.fullPage}
+::: {.twikiMiddleContainer}
+::: {.twikiLeftBar}
+::: {.twikiLeftBarContents}
+![](../pub/transformation.gif)
+
+------------------------------------------------------------------------
+
+**[Home](WebHome){.twikiLink}**
+
+**Surveys**\
+[Transformation](ProgramTransformation){.twikiLink}\
+[Reengineering](ReengineeringWiki){.twikiLink}\
+[DSL](DomainSpecificLanguages){.twikiLink}\
+[Domain Engineering](DomainEngineering){.twikiLink}\
+[Decompilation](DeCompilation){.twikiLink}\
+[Generative Progr.](GenerativeProgrammingWiki){.twikiLink}\
+\
+**[Collections](CategoryCollection){.twikiLink}**\
+[Categories](CategoryCategory){.twikiLink}\
+[Systems](TransformationSystems){.twikiLink}\
+[Conferences](TransformationConferences){.twikiLink}\
+[People](TransformationPeople){.twikiLink}\
+[Companies](TransformationCompanies){.twikiLink}\
+[Papers](CategoryPaper){.twikiLink}
+
+------------------------------------------------------------------------
+
+[![](../pub/rss.gif "RSS 1.0 feed")](WebRss@skin=rss)
+:::
+:::
+
+::: {.twikiMain}
+::: {.toolBar}
+::: {.flexMenuBar}
+::: {.flexMenu onmouseover="return showMenu(event, 100);" onmouseout="return hideMenu(event, 100);"}
+Page
+
+::: {#flexMenuContent100 .flexMenuContent}
+-   [Edit
+    Page](http://www.program-transformation.org/edit/Transform/SourceRecoveryCompany?t=1536826570)
+-   [Rename
+    Page](http://www.program-transformation.org/rename/Transform/SourceRecoveryCompany)
+-   [Attach
+    File](http://www.program-transformation.org/attach/Transform/SourceRecoveryCompany)
+
+<!-- -->
+
+-   [Printable](http://www.program-transformation.org/view/Transform/SourceRecoveryCompany?skin=print.pattern)
+-   [Wiki
+    Source](http://www.program-transformation.org/view/Transform/SourceRecoveryCompany?skin=text&raw=on&contenttype=text/plain)
+
+<!-- -->
+
+-   [Rev
+    2](http://www.program-transformation.org/view/Transform/SourceRecoveryCompany?rev=1.2)
+    [(diff 1)](http://www.program-transformation.org/rdiff/Transform/SourceRecoveryCompany?rev1=1.2&rev2=1.1)
+-   [Rev
+    1](http://www.program-transformation.org/view/Transform/SourceRecoveryCompany?rev=1.1)
+-   [Total
+    History](http://www.program-transformation.org/rdiff/Transform/SourceRecoveryCompany)
+
+<!-- -->
+
+-   [More
+    \...](http://www.program-transformation.org/oops/Transform/SourceRecoveryCompany?template=oopsmore&param1=1.2&param2=1.2)
+:::
+:::
+
+::: {.flexMenu onmouseover="return showMenu(event, 102);" onmouseout="return hideMenu(event, 102);"}
+Web
+
+::: {#flexMenuContent102 .flexMenuContent}
+-   [Recent Changes](WebChanges){.twikiLink}
+-   [Notify Service](WebNotify){.twikiLink}
+-   [News](WebNews){.twikiLink}
+
+<!-- -->
+
+-   [Page Index](WebIndex){.twikiLink}
+-   [Search](WebSearch){.twikiLink}
+
+<!-- -->
+
+-   [More
+    \...](http://www.program-transformation.org/oops/Transform/SourceRecoveryCompany?template=oopsmore&param1=1.2&param2=1.2)
+:::
+:::
+
+::: {.flexMenu onmouseover="return showMenu(event, 103);" onmouseout="return hideMenu(event, 103);"}
+Wiki
+
+::: {#flexMenuContent103 .flexMenuContent}
+-   [About
+    TWiki](http://www.program-transformation.org/view/TWiki/WebHome)
+-   [Text
+    Formatting](http://www.program-transformation.org/view/TWiki/TextFormattingRules)
+
+<!-- -->
+
+-   [Registration](http://www.program-transformation.org/view/TWiki/TWikiRegistration)
+-   [Change
+    Password](http://www.program-transformation.org/view/TWiki/ChangePassword)
+-   [Reset
+    Password](http://www.program-transformation.org/view/TWiki/ResetPassword)
+
+<!-- -->
+
+-   [Users](http://www.program-transformation.org/view/Main/TWikiUsers)
+-   [Groups](http://www.program-transformation.org/view/Main/TWikiGroups)
+:::
+:::
+:::
+:::
+
+::: {.twikiTopic}
+Source Recovery Company {#source-recovery-company .twikiTopicTitle}
+=======================
+
+::: {.twikiWebTitle}
+Program-Transformation.Org: The Program Transformation Wiki
+:::
+
+<http://www.source-recovery.com>
+
+Note the hyphen: www.sourcerecovery.com is a different company (see
+[JuggerSoft](JuggerSoft){.twikiLink}).
+
+From the [Source Recovery Company](http://www.source-recovery.com/)\'s
+web page: *We use our patented ReSource (TM) technology to recover
+missing [COBOL](COBOL){.twikiLink} or Assembler source code for the IBM
+mainframe environment back to its original language.*
+
+Their marketing company is Essential Systems Technical Consulting:
+
+<http://www.essential-systems.com>
+
+On Sept 7, 2000, The Source Recovery Company transferred its ownership
+of ReSource, the technology to recover [COBOL](COBOL){.twikiLink} or
+Assembler source code from MVS load modules back to Fred Brandes (it\'s
+original author). They are now marketing this service under ESTC. This
+is now performed as a regular consulting engagement based on an hourly
+fee, to IBM 360/370/380 clients who have lost their source code.
+Mainframe code is disassembled to assembly code and/or decompiled to
+[COBOL](COBOL){.twikiLink} code.
+
+Pattern matching techniques are used in order to match sequences of code
+known to be generated by [COBOL](COBOL){.twikiLink} compilers. Manual
+intervention is required. Although the approach is not portable in
+general, i.e. new patterns need to be generated for other machines, the
+extensive database of patterns allows them to decompile a good
+percentage of the code.
+
+[CategoryDecompilation](CategoryDecompilation){.twikiLink}\
+[]{#TopicEnd}
+:::
+
+::: {.twikiTopicInfo .twikiRevInfo .twikiGrayText .twikiMoved}
+:::
+:::
+:::
+:::

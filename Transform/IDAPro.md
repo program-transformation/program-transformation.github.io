@@ -1,0 +1,167 @@
+::: {.fullPage}
+::: {.twikiMiddleContainer}
+::: {.twikiLeftBar}
+::: {.twikiLeftBarContents}
+![](../pub/transformation.gif)
+
+------------------------------------------------------------------------
+
+**[Home](WebHome){.twikiLink}**
+
+**Surveys**\
+[Transformation](ProgramTransformation){.twikiLink}\
+[Reengineering](ReengineeringWiki){.twikiLink}\
+[DSL](DomainSpecificLanguages){.twikiLink}\
+[Domain Engineering](DomainEngineering){.twikiLink}\
+[Decompilation](DeCompilation){.twikiLink}\
+[Generative Progr.](GenerativeProgrammingWiki){.twikiLink}\
+\
+**[Collections](CategoryCollection){.twikiLink}**\
+[Categories](CategoryCategory){.twikiLink}\
+[Systems](TransformationSystems){.twikiLink}\
+[Conferences](TransformationConferences){.twikiLink}\
+[People](TransformationPeople){.twikiLink}\
+[Companies](TransformationCompanies){.twikiLink}\
+[Papers](CategoryPaper){.twikiLink}
+
+------------------------------------------------------------------------
+
+[![](../pub/rss.gif "RSS 1.0 feed")](WebRss@skin=rss)
+:::
+:::
+
+::: {.twikiMain}
+::: {.toolBar}
+::: {.flexMenuBar}
+::: {.flexMenu onmouseover="return showMenu(event, 100);" onmouseout="return hideMenu(event, 100);"}
+Page
+
+::: {#flexMenuContent100 .flexMenuContent}
+-   [Edit
+    Page](http://www.program-transformation.org/edit/Transform/IDAPro?t=1536826497)
+-   [Rename
+    Page](http://www.program-transformation.org/rename/Transform/IDAPro)
+-   [Attach
+    File](http://www.program-transformation.org/attach/Transform/IDAPro)
+
+<!-- -->
+
+-   [Printable](http://www.program-transformation.org/view/Transform/IDAPro?skin=print.pattern)
+-   [Wiki
+    Source](http://www.program-transformation.org/view/Transform/IDAPro?skin=text&raw=on&contenttype=text/plain)
+
+<!-- -->
+
+-   [Rev
+    8](http://www.program-transformation.org/view/Transform/IDAPro?rev=1.8)
+    [(diff 7)](http://www.program-transformation.org/rdiff/Transform/IDAPro?rev1=1.8&rev2=1.7)
+-   [Rev
+    7](http://www.program-transformation.org/view/Transform/IDAPro?rev=1.7)
+    [(diff 6)](http://www.program-transformation.org/rdiff/Transform/IDAPro?rev1=1.7&rev2=1.6)
+-   [Rev
+    6](http://www.program-transformation.org/view/Transform/IDAPro?rev=1.6)
+    [(diff 5)](http://www.program-transformation.org/rdiff/Transform/IDAPro?rev1=1.6&rev2=1.5)
+-   [Total
+    History](http://www.program-transformation.org/rdiff/Transform/IDAPro)
+
+<!-- -->
+
+-   [More
+    \...](http://www.program-transformation.org/oops/Transform/IDAPro?template=oopsmore&param1=1.8&param2=1.8)
+:::
+:::
+
+::: {.flexMenu onmouseover="return showMenu(event, 102);" onmouseout="return hideMenu(event, 102);"}
+Web
+
+::: {#flexMenuContent102 .flexMenuContent}
+-   [Recent Changes](WebChanges){.twikiLink}
+-   [Notify Service](WebNotify){.twikiLink}
+-   [News](WebNews){.twikiLink}
+
+<!-- -->
+
+-   [Page Index](WebIndex){.twikiLink}
+-   [Search](WebSearch){.twikiLink}
+
+<!-- -->
+
+-   [More
+    \...](http://www.program-transformation.org/oops/Transform/IDAPro?template=oopsmore&param1=1.8&param2=1.8)
+:::
+:::
+
+::: {.flexMenu onmouseover="return showMenu(event, 103);" onmouseout="return hideMenu(event, 103);"}
+Wiki
+
+::: {#flexMenuContent103 .flexMenuContent}
+-   [About
+    TWiki](http://www.program-transformation.org/view/TWiki/WebHome)
+-   [Text
+    Formatting](http://www.program-transformation.org/view/TWiki/TextFormattingRules)
+
+<!-- -->
+
+-   [Registration](http://www.program-transformation.org/view/TWiki/TWikiRegistration)
+-   [Change
+    Password](http://www.program-transformation.org/view/TWiki/ChangePassword)
+-   [Reset
+    Password](http://www.program-transformation.org/view/TWiki/ResetPassword)
+
+<!-- -->
+
+-   [Users](http://www.program-transformation.org/view/Main/TWikiUsers)
+-   [Groups](http://www.program-transformation.org/view/Main/TWikiGroups)
+:::
+:::
+:::
+:::
+
+::: {.twikiTopic}
+IDAPro {#idapro .twikiTopicTitle}
+======
+
+::: {.twikiWebTitle}
+Program-Transformation.Org: The Program Transformation Wiki
+:::
+
+[IDA Pro](http://www.hex-rays.com/idapro/) is a commercial program for
+disassembling a wide array of different [file
+types](http://www.hex-rays.com/idapro/gallery/index.htm) for different
+[processors](http://www.hex-rays.com/idapro/idaproc.htm), written by
+Ilfak Guilfanov. It can disassemble virtually any binary file for any
+popular operating system on the market. It can semi-automatically
+separate data from code, and has auto-commenting abilities. For advanced
+users, it is [programmable](http://www.hex-rays.com/idapro/idaclike.htm)
+through a C-like language, and has a Plugin architecture.
+
+IDA Pro has tools to ease program analysis: a crossreferencing system,
+the navigation band, and function flow-charting, to name a few.
+
+IDA Pro has [FLIRT](http://www.hex-rays.com/idapro/idaflirt.htm): Fast
+Library Identification and Recognition Technology. This technology
+allows IDA to recognise standard library functions generated by various
+C compilers. IDA also supports advanced features, such as functions,
+structures, and enumerations. It also has
+[PIT](http://www.hex-rays.com/idapro/pix/ida_pit_white.gif) (Parameter
+Identification Technology) which allows the propagation of type
+information throughout the program.
+
+It also has a
+[debugger](http://www.hex-rays.com/idapro/debugger/index.htm), for
+dynamic reverse engineering.
+
+A limited trial version can be
+[downloaded](http://www.hex-rays.com/idapro/idadown.htm). There is an
+active [forum](http://www.hex-rays.com/forum) where users exchange ideas
+and information, and the authors provide support.
+
+[CategoryDecompilation](CategoryDecompilation){.twikiLink}\
+[]{#TopicEnd}
+:::
+
+::: {.twikiTopicInfo .twikiRevInfo .twikiGrayText .twikiMoved}
+:::
+:::
+:::
+:::
